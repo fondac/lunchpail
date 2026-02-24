@@ -9,8 +9,8 @@ From [Love and Lemons](https://www.loveandlemons.com/scones-recipe/#wprm-recipe-
 - ½ cup raisins
 - ½ cup cold buttermilk (substitute 1.5 teaspoons vinegar + milk)
 - 1 large egg
-- 1 teaspoon vanilla extract
-## Instructions
+- 1 teaspoon vanilla extract  
+## Instructions  
 1. Line a large baking sheet with parchment paper.
 2. In a large bowl, whisk together the flour, sugar, baking powder, and salt.
 3. On the large holes of a box grater, grate the frozen butter. Add to the flour mixture and toss to coat. Use your hands to work the butter into the flour until the mixture resembles a coarse meal. Add desired mix-ins and toss to incorporate.

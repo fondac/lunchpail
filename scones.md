@@ -1,8 +1,8 @@
 # Scones
-From [Love and Lemons](https://www.loveandlemons.com/scones-recipe/#wprm-recipe-container-84366)  
+From [Love and Lemons](https://www.loveandlemons.com/scones-recipe/#wprm-recipe-container-84366)
 ## Ingredients
-- 2 cups all-purpose flour, spooned and leveled  
-- ¼ cup cane sugar  
+- 2 cups all-purpose flour, spooned and leveled
+- ¼ cup cane sugar
 - 2 teaspoons baking powder
 - ½ teaspoon sea salt
 - 8 tablespoons unsalted butter, 1 stick, frozen for at least 1 hour

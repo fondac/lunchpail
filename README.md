@@ -1,5 +1,5 @@
 Recipes for Feb 25
 - [Scones](scones.md)
-- Moqueca and brussels sprouts
-- Lentils, roasted parsnips + beets, coconut couscous
+- [Moqueca](moqueca.md) and [brussels sprouts](brussels.md)
+- [Lentils](ethiopian-lentils.md), [roasted parsnips + beets](roasted-parsnips-beets.md), [coconut couscous](coconut-couscous.md)
 - Soybean stew, bok choy

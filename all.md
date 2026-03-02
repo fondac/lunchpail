@@ -8,7 +8,7 @@
 - [Ethiopian lentils](https://fondac.github.io/lunchpail/ethiopian-lentils.html)
 
 ## Vegetable sides
-- [Bok choy](https://fondac.github.io/lunchpail/bokchoy.html)
+- [Bok choy](https://fondac.github.io/lunchpail/bok-choy.html)
 - [Brussels](https://fondac.github.io/lunchpail/brussels.html)
 - [Roasted parsnips and beets](https://fondac.github.io/lunchpail/roasted-parsnips-beets.html)
 

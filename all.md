@@ -4,16 +4,17 @@
 - [Moqueca](https://fondac.github.io/lunchpail/moqueca.html)
 - [Soybean stew](https://fondac.github.io/lunchpail/soybean-stew.html)
 
-## Protein
+## Proteins
+- [Baked tofu](https://fondac.github.io/lunchpail/baked-tofu.html
 - [Ethiopian lentils](https://fondac.github.io/lunchpail/ethiopian-lentils.html)
 
-## Vegetable sides
+## Vegetables
 - [Bok choy](https://fondac.github.io/lunchpail/bok-choy.html)
 - [Brussels](https://fondac.github.io/lunchpail/brussels.html)
 - [Roasted parsnips and beets](https://fondac.github.io/lunchpail/roasted-parsnips-beets.html)
 
-## Starchy stuff
+## Starches
 - [Coconut couscous](https://fondac.github.io/lunchpail/coconut-couscous.html)
 
-## Dessert
+## Desserts
 - [Scones](https://fondac.github.io/lunchpail/scones.html)

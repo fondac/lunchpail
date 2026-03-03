@@ -19,5 +19,8 @@
 ## Starches
 - [Coconut couscous](https://fondac.github.io/lunchpail/starches/coconut-couscous.html)
 
+## Sauces
+- [Giblet gravy](https://fondac.github.io/lunchpail/sauces/giblet-gravy.html)
+
 ## Desserts
 - [Scones](https://fondac.github.io/lunchpail/desserts/scones.html)

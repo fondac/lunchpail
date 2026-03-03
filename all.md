@@ -2,10 +2,12 @@
 
 ## Entrées  
 - [Moqueca](https://fondac.github.io/lunchpail/moqueca.html)
+- [Salmon cakes](https://fondac.github.io/lunchpail/salmon-cakes.html)
+- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/shrimp-snow-pea-stir-fry.html)
 - [Soybean stew](https://fondac.github.io/lunchpail/soybean-stew.html)
 
 ## Proteins
-- [Baked tofu](https://fondac.github.io/lunchpail/baked-tofu.html
+- [Baked tofu](https://fondac.github.io/lunchpail/proteins/baked-tofu.html)
 - [Ethiopian lentils](https://fondac.github.io/lunchpail/ethiopian-lentils.html)
 
 ## Vegetables

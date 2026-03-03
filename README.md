@@ -1,6 +1,6 @@
 **Recipes for Mar 4**
 
-**Bolded recipes are for Dianna (let's do chicken last)**
+**Bolded days are for Dianna (let's do chicken last)**
 
 - **Wed**: [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/shrimp-snow-pea-stir-fry.html) (stove - wok)
 - **Thurs**: [Salmon cakes](https://fondac.github.io/lunchpail/salmon-cakes.html) (oven - sheet pan), edamame (Fonda to thaw day of), cauliflower (oven - sheet pan), Japanese sweet potato (oven - sheet pan)

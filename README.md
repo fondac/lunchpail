@@ -12,6 +12,6 @@
     - **Barley**: Cook 1 cup barley in saucepan according to product instructions
     - **Bone broth**: Add bones, water (roughly 1 quart for every 1 lb of bones), 3 tsp salt, and 2 tbsp apple cider vinegar to Instant Pot. Cook on high pressure for 4 hours. Natural pressure release. Strain. 
 - Sat: pizza
-- **Sun: Enchilada casserole (oven - deep baking dish)**
+- **Sun: [Enchilada casserole](https://fondac.github.io/lunchpail/enchilada-casserole.html) (stove - saucepan, stainless steel skillet; oven - deep baking dish)**
 - Mon: tofu, broccoli, rice
 

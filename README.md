@@ -2,8 +2,8 @@
 
 **Dianna, the bolded days are for today. Let's do chicken last.**
 
-- **Wed: [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/shrimp-snow-pea-stir-fry.html) (stove - wok)**, brown rice (Fonda cook day of)
-- **Thurs: [Salmon cakes](https://fondac.github.io/lunchpail/salmon-cakes.html) (oven - sheet pan)**, edamame (Fonda to thaw day of), **cauliflower (oven - sheet pan), Japanese sweet potato (oven - sheet pan)**
+- **Wed: [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html) (stove - wok)**, brown rice (Fonda cook day of)
+- **Thurs: [Salmon cakes](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html) (oven - sheet pan)**, edamame (Fonda to thaw day of), **cauliflower (oven - sheet pan), Japanese sweet potato (oven - sheet pan)**
     - **Cauliflower**: Toss with garlic powder, paprika, and black pepper. Bake cauliflower at 375 F for 30–45 minutes or until very soft (not al dente)
     - **Japnese sweet potato**: Wash and scrub clean. Pierce with fork 8 times all around the sweet potato. Bake at 375 for 60–90 minutes until very soft when pierced with fork. 
 - **Fri: Whole chicken (Instant Pot), turnips and bitter greens (Instant Pot), barley (stove - saucepan)** + giblet gravy (--LINK--) (stove - saucepan) + bone broth (Instant Pot)
@@ -12,6 +12,6 @@
     - **Barley**: Cook 1 cup barley in saucepan according to product instructions
     - **Bone broth**: Add bones, water (roughly 1 quart for every 1 lb of bones), 3 tsp salt, and 2 tbsp apple cider vinegar to Instant Pot. Cook on high pressure for 4 hours. Natural pressure release. Strain. 
 - Sat: pizza
-- **Sun: [Enchilada casserole](https://fondac.github.io/lunchpail/enchilada-casserole.html) (stove - saucepan, stainless steel skillet; oven - deep baking dish)**
+- **Sun: [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html) (stove - saucepan, stainless steel skillet; oven - deep baking dish)**
 - Mon: tofu, broccoli, rice
 

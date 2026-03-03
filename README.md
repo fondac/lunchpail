@@ -1,4 +1,4 @@
-**Recipes for Mar 4**
+**Menu for week of Mar 4**
 
 **Dianna, the bolded days are for today. Let's do chicken last.**
 

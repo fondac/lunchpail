@@ -15,7 +15,7 @@
     - cook rice day of 
 - **Thurs**: lentil dish + okra
     - cook okra day of: add tomato slices, cook with water in steamer basket in Instant Pot on high pressure for 4 min
-- **Fri**: French chicken, frozen butternut squash, barley
+- **Fri**: baked chicken thighs (see recipe here), frozen butternut squash, barley
 - **Sat**: baked tofu, frozen broccoli, rice
 - **Sun**: shepherd's pie, roasted bell peppers 
 - **Mon**: // white fish next week instead of salmon. or monday if can shop early enough. with collards.

@@ -11,11 +11,10 @@
 - **Sun**: enchilada casserole, turnips & bitter greens (see Instant Pot notes) // leftover pizza
 - **Mon**: leftovers
 - **Tues**: gnocchi, kale sauteed with red onion
-- **Wed**: chickpea dish + rice
-    - cook rice day of 
-- **Thurs**: lentil dish + okra
-    - cook okra day of: add tomato slices, cook with water in steamer basket in Instant Pot on high pressure for 4 min
-- **Fri**: baked chicken thighs (see recipe here), frozen butternut squash, barley
-- **Sat**: baked tofu, frozen broccoli, rice
-- **Sun**: shepherd's pie, roasted bell peppers 
+- **Wed**: chickpea dish + rice // cook rice
+- **Thurs**: lentil dish + okra // cook okra
+    - okra: add tomato slices, cook with water in steamer basket in Instant Pot on high pressure for 4 min
+- **Fri**: baked chicken thighs (see recipe here), frozen butternut squash, barley // cook all
+- **Sat**: baked tofu, frozen broccoli, rice // cook all, defrost shepherd's pie
+- **Sun**: shepherd's pie, roasted bell peppers // cook bell peppers
 - **Mon**: // white fish next week instead of salmon. or monday if can shop early enough. with collards.

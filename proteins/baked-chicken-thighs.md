@@ -17,4 +17,4 @@ Based on NYTimes "Poulet Provencal" and [baked chicken thighs](https://cooking.n
 3. Heat the oven to 425 degrees and lift the chicken thighs from the marinade, letting any excess drip into the bowl. Place the thighs on a sheet pan and let them sit at room temperature while the oven heats.
 4. Bake until fully cooked and lightly browned, 25 to 30 minutes. An internal thermometer inserted into the thickest part of the meat should read 165 to 175 degrees.
 5. Broil for a minute or two to crisp up skin // can't remember if I tried this
-6. Serve with lemon slices
+6. Serve with lemon slices. 

@@ -14,7 +14,7 @@
 - **Wed**: chickpea dish + rice
     - cook rice day of 
 - **Thurs**: lentil dish + okra
-    - cook okra day of: add diced tomatoes, cook with water in steamer basket in Instant Pot on high pressure for 4 min
+    - cook okra day of: add tomato slices, cook with water in steamer basket in Instant Pot on high pressure for 4 min
 - **Fri**: French chicken, frozen butternut squash, barley
 - **Sat**: baked tofu, frozen broccoli, rice
 - **Sun**: shepherd's pie, roasted bell peppers 

@@ -1,6 +1,6 @@
 # Baked chicken thighs
 
-Based on NYTimes "Poulet Provencal" and [baked chicken thighs](https://cooking.nytimes.com/recipes/1024625-baked-chicken-thighs) and 
+Based on NYTimes "Poulet Provencal" and [baked chicken thighs](https://cooking.nytimes.com/recipes/1024625-baked-chicken-thighs) 
 
 ## Ingredients
 - 4 chicken legs or 8 bone-in, skin-on chicken thighs, patted dry

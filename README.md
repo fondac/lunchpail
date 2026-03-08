@@ -1,16 +1,12 @@
 ## Recipes for Dianna
 
-**Stove and oven**
-- **[Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)** (saucepan, stainless steel skillet, large casserole dish)
-
-**Stove**
-- **[Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)** (wok)
-- **[Giblet gravy](https://fondac.github.io/lunchpail/sauces/giblet-gravy.html)** (saucepan)
-- **Barley** (saucepan)
-    - Cook 1 cup barley according to product instructions
+- [Gnocchi](https://anitalianinmykitchen.com/ricotta-gnocchi/)
+- Kale sautéed with red onion
+- [Chickpeas with chard]([https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html](https://cookswithoutborders.com/ottolenghis-chickpeas-and-swiss-chard-with-yogurt)
+- [Mujadara](https://www.thekitchn.com/mujadara-recipe-23149573)
+- [Shepherd's Pie](https://www.thewholesomedish.com/the-best-classic-shepherds-pie/)
 
 **Oven**
-- **[Salmon cakes with sauce](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)** (sheet pan)
 - **Cauliflower** (sheet pan)
     - Toss with garlic powder, paprika, and black pepper.
     - Bake cauliflower at 375 F for 30–45 minutes or until very soft (not al dente)
@@ -34,14 +30,16 @@
     - Cook on high pressure for 4 hours. Natural pressure release. Strain out solids. 
 
 
-## Menu for week of March 4
-- **Wed**: Shrimp and snow pea stir fry, brown rice
-    - cook rice day of
-- **Thurs**: Salmon cakes with sauce, edamame, cauliflower, Japanese sweet potato
-    - thaw edamame day of
-- **Fri**: Whole chicken, turnips and bitter greens, barley + giblet gravy, bone broth
-- **Sat**: pizza // thaw casserole
-- **Sun**: enchilada casserole, okra
+## Menu for week of March 8
+- **Sun**: enchilada casserole, turnips & bitter greens // leftover pizza
+- **Mon**: leftovers
+- **Tues**: gnocchi, kale sauteed with red onion
+- **Wed**: chickpea dish + rice
+    - cook rice day of 
+- **Thurs**: lentil dish + okra
     - cook okra day of: add diced tomatoes, cook with water in steamer basket in Instant Pot on high pressure for 4 min
-- **Mon**: baked tofu, broccoli, rice
-    - 1/4 cup nutritional yeast, 2 T oil, 2 T soy sauce, 1 t garlic powder, 2 blocks firm tofu drained
+- **Fri**: French chicken, frozen butternut squash, barley
+- **Sat**: baked tofu, frozen broccoli, rice
+- **Sun**: shepherd's pie, roasted bell peppers 
+- **Mon**: // white fish next week instead of salmon. or monday if can shop early enough. with collards. 
+    - 

@@ -3,7 +3,7 @@
 - [Gnocchi](https://anitalianinmykitchen.com/ricotta-gnocchi/)
 - Kale sautéed with red onion
 - [Chickpeas with chard](https://cookswithoutborders.com/ottolenghis-chickpeas-and-swiss-chard-with-yogurt)
-- [Mujadara](https://www.thekitchn.com/mujadara-recipe-23149573)
+- [Mujadara](https://www.thekitchn.com/mujadara-recipe-23149573) — cook lentils until soft, not firm
 - [Shepherd's Pie](https://www.thewholesomedish.com/the-best-classic-shepherds-pie/)
 
 

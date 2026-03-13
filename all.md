@@ -8,6 +8,7 @@
 - [Soybean stew](https://fondac.github.io/lunchpail/entrees/soybean-stew.html)
 
 ## Proteins
+- [Baked chicken thighs](https://fondac.github.io/lunchpail/proteins/baked-chicken-thighs.html)
 - [Baked tofu](https://fondac.github.io/lunchpail/proteins/baked-tofu.html)
 - [Ethiopian lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
 

@@ -1,20 +1,19 @@
 ## Recipes for Dianna
 
-- [Gnocchi](https://anitalianinmykitchen.com/ricotta-gnocchi/)
-- Kale sautéed with red onion
-- [Chickpeas with chard](https://cookswithoutborders.com/ottolenghis-chickpeas-and-swiss-chard-with-yogurt)
-- [Mujadara](https://www.thekitchn.com/mujadara-recipe-23149573) — cook lentils until soft, not firm
-- [Shepherd's Pie](https://www.thewholesomedish.com/the-best-classic-shepherds-pie/)
+- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
+- [Eggplant with beef, tomato, pine nuts](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
+- Chard sautéed with garlic in stainless steel skillet 
+- [Sweet potato chili casserole](https://dearcrissy.com/sweet-potato-chili-casserole/) - sub pinto beans for beef and chicken broth for beef broth, omit chili powder, use all of sweet potato
+- If there's time: [Saucy onion chicken](https://fondac.github.io/lunchpail/proteins/saucy-onion-chicken.html)
 
 
-## Menu for week of March 8
-- **Sun**: enchilada casserole, turnips & bitter greens (see Instant Pot notes) // leftover pizza
-- **Mon**: leftovers
-- **Tues**: gnocchi, kale sauteed with red onion
-- **Wed**: chickpea dish + rice // cook rice
-- **Thurs**: lentil dish + okra // cook okra
+## Menu for week of March 16
+- **Mon**: salmon, asparagus / okra and tomato / seasonal veg, rice // cook all, cook double rice 
     - okra: add tomato slices, cook with water in steamer basket in Instant Pot on high pressure for 4 min
-- **Fri**: baked chicken thighs (see recipe here), frozen butternut squash, barley // cook all
-- **Sat**: baked tofu, frozen broccoli, rice // cook all, defrost shepherd's pie
-- **Sun**: shepherd's pie, roasted bell peppers // cook bell peppers
-- **Mon**: // white fish next week instead of salmon. or monday if can shop early enough. with collards.
+- **Tues**: shrimp and snow pea stir fry, rice
+- **Wed**: eggplant with lamb, tomato, pine nuts + Brussels // cook brussels, toast bread
+- **Thurs**: saucy onion chicken, chard, farro // cook farro
+- **Fri**: black bean, roasted mushroom, radish, cauliflower quesadillas // cook all, defrost casserole
+- **Sat**: sweet potato chili casserole, frozen veg // cook veg
+- **Sun**: Cava
+

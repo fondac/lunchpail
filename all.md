@@ -1,5 +1,8 @@
 # All recipes
 
+## Breakfast
+- [Buckwheat pancakes](https://fondac.github.io/lunchpail/breakfast/buckwheat-pancakes.html)
+
 ## Entrées  
 - [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
 - [Moqueca](https://fondac.github.io/lunchpail/entrees/moqueca.html)

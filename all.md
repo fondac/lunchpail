@@ -15,6 +15,7 @@
 
 ## Proteins
 - [Baked chicken thighs](https://fondac.github.io/lunchpail/proteins/baked-chicken-thighs.html)
+- [Baked chicken thighs with saucy onions](https://fondac.github.io/lunchpail/proteins/baked-chicken-saucy-onions.html)
 - [Baked tofu](https://fondac.github.io/lunchpail/proteins/baked-tofu.html)
 - [Ethiopian lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
 

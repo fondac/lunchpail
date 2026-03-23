@@ -1,19 +1,22 @@
 ## Recipes for Dianna
 
-- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
-- [Eggplant with beef, tomato, pine nuts](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
+- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html): bake patties, dice 1 cucumber and 2 tomatoes
+- [Beluga stew](https://fondac.github.io/lunchpail/entrees/beluga-stew.html)
 - Chard sautéed with garlic in stainless steel skillet 
-- [Sweet potato chili casserole](https://dearcrissy.com/sweet-potato-chili-casserole/) - sub pinto beans for beef and chicken broth for beef broth, omit chili powder, use all of sweet potato
-- If there's time: [Saucy onion chicken](https://fondac.github.io/lunchpail/proteins/saucy-onion-chicken.html)
+- [Root vegetable tagine](https://fondac.github.io/lunchpail/entrees/root-veg-tagine.html))
+- If there's time: [Lemon chicken](https://fondac.github.io/lunchpail/proteins/baked-chicken-lemon.html)
 
 
-## Menu for week of March 16
-- **Mon**: salmon, asparagus / okra and tomato / seasonal veg, rice // cook all, cook double rice 
+## Menu for week of March 23
+- **Mon**: white fish, asparagus / okra and tomato / seasonal veg, 1 c rice // cook all, soak chickpeas, refrigerate chicken  
     - okra: add tomato slices, cook with water in steamer basket in Instant Pot on high pressure for 4 min
-- **Tues**: shrimp and snow pea stir fry, rice
-- **Wed**: eggplant with lamb, tomato, pine nuts + Brussels // cook brussels, toast bread
-- **Thurs**: saucy onion chicken, chard, farro // cook farro
-- **Fri**: black bean, roasted mushroom, radish, cauliflower quesadillas // cook all, defrost casserole
-- **Sat**: sweet potato chili casserole, frozen veg // cook veg
-- **Sun**: Cava
+- **Tues**: falafel, couscous // cook couscous  
+- **Wed**: beluga stew, rice // cook rice
+- **Thurs**: chicken w potatoes, chard 
+- **Fri**: scallop salad, zucchini, farro // cook all, defrost tagine
+    - lightly sear scallops in butter
+    - stainless steel skillet: olive oil > red onion slices, thyme > watercress or arugula > orange pieces > off heat sherry vinegar
+    - serving bowl: chopped spinach, sliced almonds, skillet greens, scallops
+- **Sat**: root veg tagine 
+- **Sun**: leftovers or Cava // find recipe for fried onion dish
 

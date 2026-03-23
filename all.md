@@ -4,6 +4,7 @@
 - [Buckwheat pancakes](https://fondac.github.io/lunchpail/breakfast/buckwheat-pancakes.html)
 
 ## Entrées  
+- [Beluga stew](https://fondac.github.io/lunchpail/entrees/beluga-stew.html)
 - [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
 - [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
 - [Moqueca](https://fondac.github.io/lunchpail/entrees/moqueca.html)

@@ -28,7 +28,7 @@ Stovetop
 - 3/4 cup dried apricots
 - enough hot water to cover the apricots
 - 1 quart chicken broth
-- 1 cup couscous
+- 1 cup quinoa
 - 1 15-oz can chickpeas, drained
 
 For serving
@@ -41,6 +41,6 @@ For serving
 2. In a large bowl, mix all the oven ingredients. Transfer to a sheet pan. Bake for 30 minutes or until soft.
 3. In a small bowl, add the apricots and cover with hot water. 
 4. In a Dutch oven, heat olive oil over medium heat and sauté onions until translucent. Add garlic and stir frequently until fragrant.
-5. Drain the apricots. Add the apricots, tomatoes, broth, and couscous to the Dutch oven. Bring to a boil then simmer for 10 min or until couscous is fully cooked. 
+5. Drain the apricots. Add the apricots, tomatoes, broth, and couscous to the Dutch oven. Bring to a boil then simmer for 15 min or until quinoa is fully cooked. 
 6. Remove vegetables from oven. Add roasted vegetables and chickpeas to Dutch oven. Cook over low heat for 5 min to meld flavors. 
 7. Serve with lemon, parsley, and harissa. 

@@ -3,7 +3,7 @@
 - [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html): bake patties, dice 1 cucumber and 2 tomatoes
 - [Beluga stew](https://fondac.github.io/lunchpail/entrees/beluga-stew.html)
 - Chard sautéed with garlic in stainless steel skillet 
-- [Root vegetable tagine](https://fondac.github.io/lunchpail/entrees/root-veg-tagine.html))
+- [Root vegetable tagine](https://fondac.github.io/lunchpail/entrees/root-veg-tagine.html)
 - If there's time: [Lemon chicken](https://fondac.github.io/lunchpail/proteins/baked-chicken-lemon.html)
 
 

@@ -8,7 +8,7 @@ Lentils
 - 2 cups chicken broth
 - 1 tablespoon thyme
 - 2 teaspoons rosemary
-- 2 teaspoons black pepper
+- 1/2 teaspoon black pepper
 - 1 bay leaf
 
 Mushroom stew

@@ -1,22 +1,18 @@
 ## Recipes for Dianna
-
-- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html): bake patties, dice 1 cucumber and 2 tomatoes
-- [Beluga stew](https://fondac.github.io/lunchpail/entrees/beluga-stew.html) - substitute mustard greens for dandelion greens/arugula 
+- [Black-eyed pea soup](https://fondac.github.io/lunchpail/entrees/black-eyed-pea-soup.html)
+- [Shrimp curry](https://fondac.github.io/lunchpail/entrees/kaddu.html)
 - Chard sautéed with garlic in stainless steel skillet 
-- [Root vegetable tagine](https://fondac.github.io/lunchpail/entrees/root-veg-tagine.html)
-- If there's time: [Lemon chicken](https://fondac.github.io/lunchpail/proteins/baked-chicken-lemon.html)
+- [Moussaka](https://fondac.github.io/lunchpail/entrees/moussaka.html)
+- If there's time: cook 1 cup millet according to instructions on bag
 
 
-## Menu for week of March 23
-- **Mon**: white fish, asparagus / okra and tomato / seasonal veg, 1 c rice // cook all, soak chickpeas, refrigerate chicken, identify dishes to bake in Pyrex storage  
+## Menu for week of March 30
+- **Mon**: salmon, asparagus / okra and tomato / seasonal veg, 2 c rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna  
     - okra: add tomato slices, cook with water in steamer basket in Instant Pot on high pressure for 4 min
-- **Tues**: falafel, couscous // cook couscous  
-- **Wed**: beluga stew, rice // cook rice
-- **Thurs**: chicken w potatoes, chard // defrost scallops 
-- **Fri**: scallop salad, zucchini, farro // cook all, defrost tagine
-    - lightly sear scallops in butter
-    - stainless steel skillet: olive oil > red onion slices, thyme > watercress or arugula > orange pieces > off heat sherry vinegar
-    - serving bowl: chopped spinach, sliced almonds, skillet greens, scallops
-- **Sat**: root veg tagine 
+- **Tues**: black-eyed pea soup, leftover rice // :) 
+- **Wed**: shrimp curry, millet // cook millet 
+- **Thurs**: moussaka, chard, frozen bread // :) 
+- **Fri**: fisherman stew, root veg, frozen bread // cook all
+- **Sat**: short rib ragu, frozen broccoli // cook all 
 - **Sun**: leftovers or Cava // find recipe for fried onion dish
 

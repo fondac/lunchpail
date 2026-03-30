@@ -6,7 +6,7 @@ Adapted from [NYTimes](https://cooking.nytimes.com/recipes/1025222-kaddu-with-gr
 - Salt
 - 1/4 cup ghee 
 - 1 teaspoon cumin seeds 
-- 1 tablespoon grated ginger [top shelf of fridge]
+- 1 tablespoon grated ginger [in freezer]
 - 1 tablespoon minced garlic 
 - 1 medium red onion, finely chopped 
 - 1/4 teaspoon turmeric powder 

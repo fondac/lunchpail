@@ -9,7 +9,7 @@
 - **Mon**: Cava // get takeout, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna  
 - **Tues**: salmon cakes, jaew tomato, asparagus, frozen bread // cook asparagus
 - **Wed**: koshari, chard // assemble
-- **Thurs**: white bean stew with broccoli rabe, frozen bread // ??
+- **Thurs**: white bean stew with broccoli rabe, frozen bread // :) 
 - **Fri**: baked tofu, frozen stir fry, rice // cook all, defrost chicken
 - **Sat**: chicken thighs, frozen broccoli or okra, rice // cook all, meal plan
 - **Sun**: leftovers or takeout // shopping list

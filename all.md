@@ -5,9 +5,13 @@
 
 ## Entrées  
 - [Beluga stew](https://fondac.github.io/lunchpail/entrees/beluga-stew.html)
+- [Black-eyed-pea soup](https://fondac.github.io/lunchpail/entrees/black-eyed-pea-soup.html)
+- [Eggplant with lamb, tomato, pine nuts](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
 - [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
 - [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
+- [Kaddu](https://fondac.github.io/lunchpail/entrees/kaddu.html)
 - [Moqueca](https://fondac.github.io/lunchpail/entrees/moqueca.html)
+- [Moussaka](https://fondac.github.io/lunchpail/entrees/moussaka.html)
 - [Root vegetable tagine](https://fondac.github.io/lunchpail/entrees/root-veg-tagine.html)
 - [Salmon cakes](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
 - [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)

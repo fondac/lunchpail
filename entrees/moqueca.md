@@ -6,7 +6,7 @@ From [Milk Street](https://www.177milkstreet.com/recipes/brazilian-fish-stew-moq
 - 2 tablespoons coconut oil, preferably unrefined
 - 1 medium yellow onion, halved and thinly sliced
 - 1 medium yellow, red or orange bell pepper, stemmed, seeded and thinly sliced
-- 1 serrano chili, stemmed and sliced into thin rounds
+- [omit] 1 serrano chili, stemmed and sliced into thin rounds 
 - 4 medium garlic cloves, minced, divided
 - 3/4 teaspoon sweet paprika
 - 14.5 ounce can diced tomatoes, drained

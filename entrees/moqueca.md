@@ -16,7 +16,7 @@ From [Milk Street](https://www.177milkstreet.com/recipes/brazilian-fish-stew-moq
 - 8 ounce bottle clam juice
 - 1 cup coconut milk
 - 14 ounce can diced hearts of palm
-- 1/2 cup roughly chopped fresh cilantro
+- 1/2 cup roughly chopped fresh cilantro [sub in dried cilantro]
 
 ## Directions
 1. In a Dutch oven, heat the coconut oil over medium until shimmering. Add the onion, bell pepper and chili, then cook, stirring occasionally, until the vegetables begin to soften, about 10 minutes. Stir in ½ the garlic, the paprika, and tomatoes. Cook, stirring occasionally, for about 5 minutes.

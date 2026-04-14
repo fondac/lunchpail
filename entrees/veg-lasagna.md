@@ -5,24 +5,27 @@ Based on Love and Lemons
 Vegetables
 - 1 large leek, white and light green parts, chopped
 - 1/2 medium red onion, chopped into 1/2-inch pieces
-- 1 fennel bulb, chopped into 1/2-inch pieces
+- 1 fennel bulb, chopped into 1/2-inch pieces [don't have]
 - 2 carrots, slice into thin half moons 
-- 8 ounces cremini mushrooms, stemmed and halved
+- 8 ounces cremini mushrooms, stemmed and halved [don't have]
 - 1 zucchini, sliced into ¼-inch thick half moons
-- 12 cherry tomatoes, halved
+- 12 cherry tomatoes, halved [double this]
 
 "Ricotta" Filling
 - 23 ounces extra firm tofu, drained and patted dry
 - 1/4 cup nutritional yeast
 - juice and zest of 1 lemon
-- 2 tablespoons extra-virgin olive oil
+- 2 tablespoons extra-virgin olive oil [sub in avocado oil]
 - 1 garlic clove
 - 1/2 cup loose-packed fresh basil
+- 1 teaspoon oregano
+- [omit] red pepper flakes
+- 1/2 teaspoon ground black pepper
 
 For the lasagna
 - 12 no-bake lasagna noodles
 - 40 ounces marinara sauce 
-- 1 packed cup chopped kale
+- 1 packed cup chopped kale [sub in super greens]
 - 2 cups grated mozzarella cheese
 - sliced basil, for garnish
 
@@ -34,7 +37,7 @@ Roast the vegetables
 4. Roast for 20 to 25 minutes or until golden and very soft. Remove the vegetables from the oven and reduce the oven heat to 350°F.
 
 Make the "ricotta"
-1. Break the tofu apart and place it in a food processor along with the nutritional yeast, lemon juice and zest, olive oil, garlic, oregano, red pepper flakes, salt, and pepper and process until creamy.
+1. Break the tofu apart and place it in a food processor along with the nutritional yeast, lemon juice and zest, olive oil, garlic, oregano, red pepper flakes, and black pepper and process until creamy.
 2. Add the basil and pulse until incorporated.
 
 Assemble the lasagna

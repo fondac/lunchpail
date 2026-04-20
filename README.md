@@ -1,11 +1,12 @@
 ## Recipes for Dianna
-- [Moqueca](https://fondac.github.io/lunchpail/entrees/moqueca.html)
-- [Lasagna](https://fondac.github.io/lunchpail/entrees/veg-lasagna.html)
-- [Turkey meatballs](https://fondac.github.io/lunchpail/proteins/meatballs.html)
-- Roast green beans with garlic at 350 F until very soft
+- [Soybean stew](https://fondac.github.io/lunchpail/entrees/soybean-stew.html)
+- [Shepherd's pie](https://www.thewholesomedish.com/the-best-classic-shepherds-pie/)
+- [Caponata](https://www.loveandlemons.com/caponata-recipe/#wprm-recipe-container-65253)
+- Saute chard with garlic in stainless steel skillet
+- If enough time: saute bok choy with garlic in stainless steel skillet 
 
 
-## Menu for week of April 13
+## Menu for week of April 20 // need to update
 - **Mon**: chicken, fennel, brussels // refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna  
 - **Tues**: moqueca, okra and tomato // cook okra and tomato 4 min
 - **Wed**: turkey meatballs, green beans, pasta, jarred sauce // cook pasta

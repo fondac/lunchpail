@@ -1,9 +1,10 @@
 ## Recipes for Dianna
-- [Soybean stew](https://fondac.github.io/lunchpail/entrees/soybean-stew.html)
-- [Shepherd's pie](https://www.thewholesomedish.com/the-best-classic-shepherds-pie/)
-- [Caponata](https://www.loveandlemons.com/caponata-recipe/#wprm-recipe-container-65253)
-- Saute chard with garlic in stainless steel skillet
-- If enough time: saute bok choy with garlic in stainless steel skillet 
+- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
+- [Split pea soup](https://fondac.github.io/lunchpail/entrees/split-pea-soup.html)
+- [Eggplant parmesan]
+- Wash and cut delicata squash into half moons
+- Wash, peel, and cut kabocha squash into bite-size pieces
+- Wash and slice potatoes very thinly
 
 
 ## Menu for week of April 20 // need to update

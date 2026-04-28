@@ -1,7 +1,7 @@
 ## Recipes for Dianna
 - [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
 - [Split pea soup](https://fondac.github.io/lunchpail/entrees/split-pea-soup.html)
-- [Eggplant parmesan](https://fondac.github.io/lunchpail/entrees/eggplant parmesan.html)
+- [Eggplant parmesan](https://fondac.github.io/lunchpail/entrees/eggplant-parmesan.html)
 - Wash, peel, and cut kabocha squash into bite-size pieces
 - Wash and cut delicata squash into half moons
 - Wash and slice potatoes very thinly

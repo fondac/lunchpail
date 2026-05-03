@@ -22,7 +22,7 @@ Main ingredients
 
 Sauce 
 - 0.50 tsp salt
-- 1 tsp sugar
+- [omit] 1 tsp sugar
 - 1 tsp cornstarch
 - 1 tbsp cooking wine
 - [omit] 0.25 tsp white pepper  

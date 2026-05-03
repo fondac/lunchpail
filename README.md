@@ -1,18 +1,16 @@
 ## Recipes for Dianna
-- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
-- [Split pea soup](https://fondac.github.io/lunchpail/entrees/split-pea-soup.html)
-- [Eggplant parmesan](https://fondac.github.io/lunchpail/entrees/eggplant-parmesan.html)
-- Wash, peel, and cut kabocha squash into bite-size pieces
-- Wash and cut delicata squash into half moons
-- Wash and slice potatoes very thinly
+- [Salmon cakes with salsa](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
+- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
+- [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/eenchilada-casserole.html)
+- Wash and saute chard with garlic in stainless steel skillet 
 
 
-## Menu for week of April 27 
-- **Mon**: leftovers and sauteed veg // refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna  
-- **Tues**: falafel // cook couscous, cut veg, make sauce
-- **Wed**: split pea soup, potatoes, beets // roast potatoes and beets
-- **Thurs**: eggplant parmesan // :) 
-- **Fri**: pasta w meatballs, delicata // cook all
-- **Sat**: fisherman stew w kabocha // cook all, meal plan
-- **Sun**: red lentils, rice, roasted bell peppers // cook all, shopping list
+## Menu for week of May 4
+- **Mon**: leftovers, Ethiopian lentils, roasted bell peppers, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna  
+- **Tues**: salmon cakes, asparagus // cook asparagus
+- **Wed**: shrimp and snow pea stir fry // cook rice
+- **Thurs**: enchilada casserole, chard // :) 
+- **Fri**: black bean cauliflower radish tacos // cook all
+- **Sat**: baked tofu, frozen veg, rice // cook all, meal plan
+- **Sun**: fennel seed pasta, green bean amandine // cook all, shopping list
 

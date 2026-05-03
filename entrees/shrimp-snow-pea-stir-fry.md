@@ -3,7 +3,7 @@
 ## Ingredients
 Shrimp marinade 
 - 0.50 tsp salt
-- 0.25 tsp white pepper 
+- [omit] 0.25 tsp white pepper 
 - 1 tbsp cornstarch 
 
 Main ingredients
@@ -25,7 +25,7 @@ Sauce
 - 1 tsp sugar
 - 1 tsp cornstarch
 - 1 tbsp cooking wine
-- 0.25 tsp white pepper  
+- [omit] 0.25 tsp white pepper  
 - 1 tsp fish sauce
 - 1.5 tbsp water
 

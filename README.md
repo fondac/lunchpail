@@ -1,7 +1,7 @@
 ## Recipes for Dianna
 - [Salmon cakes with salsa](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
 - [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
-- [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/eenchilada-casserole.html)
+- [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
 - Wash and saute chard with garlic in stainless steel skillet 
 
 

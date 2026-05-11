@@ -9,7 +9,7 @@ Based on [Love and Lemons](https://www.loveandlemons.com/falafel/#wprm-recipe-co
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 3/4 teaspoon sea salt
-- 1/4 teaspoon cayenne pepper
+- [omit] 1/4 teaspoon cayenne pepper
 - 1/4 teaspoon baking powder
 - 1 cup chopped fresh cilantro leaves and stems, patted dry
 - 1 cup chopped fresh parsley leaves and stems, patted dry

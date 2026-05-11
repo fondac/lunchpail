@@ -8,10 +8,10 @@
 
 ## Menu for week of May 11 // updating
 - **Mon**: white fish, collards, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna + cook rice,
-- **Tues**: falafel, broccolini, coconut couscous * 2 // cook couscous
+- **Tues**: falafel, broccolini, coconut couscous x 2 // cook couscous
 - **Wed**: stuffed peppers // :) 
 - **Thurs**: Japanese curry, rice // cook rice
 - **Fri**: artichoke, roasted tomato, chicken // cook all
-- **Sat**: spring risotto // cook all, meal plan
-- **Sun**: oxtail soup // cook all, shopping list
+- **Sat**: ***spring risotto // cook all, meal plan
+- **Sun**: ***oxtail soup // cook all, shopping list
 

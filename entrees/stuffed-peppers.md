@@ -13,7 +13,7 @@ Based on [Love and Lemons](https://www.loveandlemons.com/vegetarian-stuffed-pepp
 - [omit] 3/4 teaspoon sea salt
 - ground black pepper
 - 1/2 cup brown rice (or 1 1/2 cups cooked brown rice - cook ahead of time if possible)
-- 2/3 cup black lentils, drained and rinsed (or 1 1/2 cups cooked lentils - cook ahead of time if possible) 
+- 2/3 cup black lentils, drained and rinsed (or 1 1/2 cups cooked lentils - cook ahead of time if possible: simmer 2/3 c lentils + 2 c water or broth in saucepan for 30 min) 
 - 1/4 cup sliced almonds 
 - 1 cup corn kernels, fresh or frozen
 - 2 tablespoons fresh lime juice, plus wedges for serving

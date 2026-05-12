@@ -6,7 +6,7 @@ Based on Milk Street
 - 5 tablespoons salted butter, cut into 1-tablespoon pieces, divided
 - 1 medium yellow onion, halved and thinly sliced
 - 2 medium garlic cloves, finely grated
-- 1 1/2 teaspoons finely grated fresh ginger
+- 1 1/2 teaspoons finely grated fresh ginger [in freezer]
 - 3 tablespoons all-purpose flour
 - 1 tablespoon curry powder
 - 8 ounces Yukon Gold potatoes, peeled and cut into ½-inch chunks

@@ -1,17 +1,17 @@
 ## Recipes for Dianna
-- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
-- [Stuffed peppers](https://fondac.github.io/lunchpail/entrees/stuffed-peppers.html)
-- [Japanese curry](https://fondac.github.io/lunchpail/entrees/japanese-curry.html)
-- Wash and roast broccolini with garlic on aluminum sheet pan at 375 F
-- Cook 2 cups pearled couscous with 2 cans coconut milk
+- [Ikarian longevitiy stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
+- Chard: cut into bite-size pieces and sauté with avocado oil and 3 cloves garlic
+- [Plantains](https://fondac.github.io/lunchpail/starches/baked-plantains.html)
+- [Kaddu shrimp curry](https://fondac.github.io/lunchpail/entrees/kaddu.html)
+- Buckwheat: cook 1 cup according to instructions on bag
+- [Tempeh tikka masala](https://fondac.github.io/lunchpail/entrees/tempeh-tikka-misala.html): skip last 3 steps
+- [Lentil bolognese](https://fondac.github.io/lunchpail/entrees/lentil-bolognese.html): first step only
 
-
-## Menu for week of May 11 // updating
-- **Mon**: white fish, collards, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna + cook rice,
-- **Tues**: falafel, broccolini, coconut couscous x 2 // cook couscous
-- **Wed**: stuffed peppers // :) 
-- **Thurs**: Japanese curry, rice // cook rice
-- **Fri**: artichoke, roasted tomato, chicken // cook all
-- **Sat**: ***spring risotto // cook all, meal plan
-- **Sun**: ***oxtail soup // cook all, shopping list
-
+## Menu for week of May 18
+- **Mon**: spring veg barley risotto // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna 
+- **Tues**: Ikarian longevity stew, chard, plantains, canned mackerel or sardines, tempeh (Instant Pot for 5 min) // cook tempeh, prep oxtail
+- **Wed**: oxtail soup, rice // cook all
+- **Thurs**: shrimp curry, buckwheat // cook buckwheat? 
+- **Fri**: tempeh tikka misala, rice // finish Instant Pot step, cook rice
+- **Sat**: pizza, carrot cake // buy and bake, meal plan
+- **Sun**: lentil bolognese, micro greens // Instant Pot and immersion blender steps, pasta, micro greens

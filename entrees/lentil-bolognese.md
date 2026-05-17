@@ -22,7 +22,7 @@
 - For serving: Parmesan
 
 ## Instructions
-1. Heat oil in a medium saucepan. Add onion, carrots, celery, garlic, and mushrooms if using. Cook until soft. (Can also do this in Instant Pot.) 
+1. Heat oil in a medium saucepan. Add onion, carrots, celery, garlic, and mushrooms if using. Cook until soft. (Can also do this in Instant Pot.) // only step for Dianna
 2. Stir in tomato paste, salt, pepper, oregano, and rosemary. Mix well and cook until tomato paste breaks down slightly.
 3. Transfer to Instant Pot. Add broth, walnuts, lentils, baking soda, and half of tomatoes. Cook on high pressure for 10 minutes.
 4. Cook pasta accoding to box instructions. Drain and set aside. 

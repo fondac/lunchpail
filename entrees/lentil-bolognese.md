@@ -22,12 +22,11 @@
 - For serving: Parmesan
 
 ## Instructions
-1. Cook pasta according to box instructions. Drain and set aside. 
-2. Set the Instant Pot to the sauté function for 30 minutes. Heat oil and add onion, carrots, celery, garlic, and mushrooms if using. Cook until soft.
-3. Stir in tomato paste, salt, pepper, oregano, and rosemary. Mix well and cook until tomato paste breaks down slightly.
-4. Add broth, walnuts, lentils, baking soda, and half of tomatoes. 
-5. Cancel sauté function and cook on high pressure for 10 minutes.
-6. Take out 2 cups and put in immersion blender container. Let cool and blend.
-7. Pour back into pot, along with reserved tomatoes and vinegar. Stir well.
-8. Add pasta to pot. 
-9. Serve with parmesan. 
+1. Heat oil in a medium saucepan. Add onion, carrots, celery, garlic, and mushrooms if using. Cook until soft. (Can also do this in Instant Pot.) 
+2. Stir in tomato paste, salt, pepper, oregano, and rosemary. Mix well and cook until tomato paste breaks down slightly.
+3. Transfer to Instant Pot. Add broth, walnuts, lentils, baking soda, and half of tomatoes. Cook on high pressure for 10 minutes.
+4. Cook pasta accoding to box instructions. Drain and set aside. 
+5. After Instant Pot releases, take out 2 cups of sauce and put in immersion blender container. Let cool and blend.
+6. Pour back into pot, along with reserved tomatoes and vinegar. Stir well.
+7. Add pasta to pot. 
+8. Serve with parmesan. 

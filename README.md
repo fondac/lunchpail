@@ -8,9 +8,9 @@
 - [Lentil bolognese](https://fondac.github.io/lunchpail/entrees/lentil-bolognese.html): first step only
 
 ## Menu for week of May 18
-- **Mon**: spring veg barley risotto // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna 
+- **Mon**: spring veg barley risotto // cook all (see gdoc), refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna 
 - **Tues**: Ikarian longevity stew, chard, plantains, canned mackerel or sardines, tempeh (Instant Pot for 5 min) // cook tempeh, prep oxtail
-- **Wed**: oxtail soup, rice // cook all
+- **Wed**: oxtail soup (see gdoc), rice // cook all
 - **Thurs**: shrimp curry, buckwheat // cook buckwheat? 
 - **Fri**: tempeh tikka misala, rice // finish Instant Pot step, cook rice
 - **Sat**: pizza, carrot cake // buy and bake, meal plan

@@ -24,4 +24,4 @@ Adapted from [The Mediterranean Dish](https://www.themediterraneandish.com/baked
 3. Coat the chicken with the wet rub on both sides, including underneath the skins.
 4. In a glass 9" X 13" baking dish, place 3/4 of the sliced onions. Layer the chicken on top of the onions. Tuck the remaining onion and tomato between the chicken thighs. Add as much okra as will fit. 
 5. Pour the water into the corners of the baking dish, taking care not to disturb the rub on the chicken pieces.
-6. Bake until chicken is cooked through, about 40 minutes.
+6. Bake until chicken is cooked through, about 40 minutes. Stir a couple times while cooking to prevent edges from burning. 

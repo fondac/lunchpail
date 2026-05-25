@@ -12,7 +12,7 @@
 - **Wed**: maafe, rice // cook rice if needed
 - **Thurs**: chicken cacciatore, fusili, green beans // cook fusili, green beans, soak fava beans
 - **Fri**: Ikarian longevitiy stew, plantains // silken tofu snack, roast fava beans and plantains
-- **Sat**: Ethiopian red lentils, roasted broccoli // cook all, meal plan
+- **Sat**: Ethiopian red lentils, roasted broccoli, rice // cook all, meal plan
 - **Sun**: fisherman stew, leftover veg in freezer or fridge, bread // cook all
 
 ## All recipes and notes

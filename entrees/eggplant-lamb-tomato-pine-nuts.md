@@ -18,7 +18,7 @@ Adapted from [Maureen Abood](https://cooking.nytimes.com/recipes/1017426-maureen
 Prep
 1. Preheat oven to 375 F. 
 2. Brush both sides of eggplant slices with 4 tablespoons avocado oil.
-3. Bake eggplant on unlined baking sheets for 35–40 minutes, turning once halfway through, until soft and tender. 
+3. Bake eggplant on unlined baking sheets for 35–40 minutes, flipping once halfway through, until soft and tender. 
 4. In a large skillet, melt butter over medium heat. Add pine nuts and reduce heat to medium-low. Stir nuts to coat them with butter and continue stirring constantly until nuts are golden, 2 to 4 minutes. Keep a close watch over the nuts; they can burn quickly once they begin to brown. Transfer nuts to a bowl while still warm.
 5. Wipe skillet clean of any pine nut bits. Heat 1 tablespoon olive oil over medium heat. Add onion and sauté until translucent, but not browned, stirring occasionally, about 5 minutes. Add garlic and cook until fragrant, about 1 minute.
 6. Add ground lamb or beef, stirring frequently and breaking up meat into very small pieces with the side of a metal spoon. Season with cinnamon and pepper. Sauté until meat is just cooked through.  

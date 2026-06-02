@@ -2,8 +2,8 @@
 - [Bean stew with broccoli rabe](https://fondac.github.io/lunchpail/entrees/bean-stew-broccoli-rabe.html)
 - [Eggplant lamb casserole](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
 - [Mac and cheese](https://fondac.github.io/lunchpail/starches/mac-and-cheese.html)
-- XX seasonal veg
-- XX seasonal veg
+- Brussels sprouts: wash, cut in half, toss in avocado oil, and roast on metal sheet pan at 375 F until tender when pierced with a fork. 
+- Corn: shuck, wash, cut in half, and boil for 3–5 minutes or until tender. 
 
 ## Menu for week of June 1
 - **Mon**: leftovers, crab // refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna

@@ -2,7 +2,7 @@
 Not including smoked/salted meats. Based on [Daring Gourmet](https://www.daringgourmet.com/feijoada/#recipe), [Dad Cooks Dinner](https://www.dadcooksdinner.com/pressure-cooker-feijoada-brazilian-black-bean-and-meat-stew/)
 
 ## Ingredients
-- 3 Tbsp cooking oil (I use avocado oil as it has a high smoke point but you can also use canola)
+- 3 T avocado oil
 - 1 pound pork shoulder // can cut into 1-inch cubes before cooking if prefer not to shred at end
 - 1 pound boneless beef short ribs // can cut into 1-inch cubes before cooking if prefer not to shred at end
 - 2 large onions, diced

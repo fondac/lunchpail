@@ -11,7 +11,7 @@ Based on [Food 52](https://food52.com/recipes/26984-nigel-slater-s-really-good-s
 - 2 bay leaves
 - 1 pound ground beef or lamb
 - 3 tablespoons tomato paste
-- 2 cup crushed tomatoes // have 28 ounces on hand
+- 2 cup crushed tomatoes // have 28-ounce can on hand
 - 3/4 cup stock
 - 1/4 teaspoon nutmeg
 - 1/2 teaspoon black pepper
@@ -28,7 +28,7 @@ For serving
 4. Gently push the bay leaves to the side and add the meat, breaking it up well with a fork.
 5. When the meat starts to brown, after about 3–4 minutes, stir and break up meat as necessary. Cook for another minute.
 6. Add tomato paste, mix well, and cook until paste darkens slightly. 
-7. Mix in the tomatoes, stock, nutmeg, and black pepper.
+7. Mix in the tomatoes, stock, nutmeg, and black pepper. // Add up to the whole can if not saucy enough. 
 8. Bring to a boil, then turn down heat so that there's just barely bubbling (not quite a simmer). Partially cover pot with a lid and cook for 1.5 hours, stirring occasionally and adding liquid as needed to avoid dryness.
 9. Slowly pour in the cream, stir, and cook for 20 minutes.
 10. Meanwhile cook the pasta, drain, and toss with olive oil to prevent sticking.

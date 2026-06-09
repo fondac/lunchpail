@@ -11,7 +11,7 @@ Main ingredients
 - 10 oz boiling water
 - 4 oz celery, 1-inch strips
 - 1 carrot, cut into diamonds
-- 1 pack seafood mushroom
+- 2 packages of assorted mushrooms
 - 10 oz snow peas
 - 1 tbsp avocado oil
 - 2 cloves garlic

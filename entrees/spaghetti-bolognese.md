@@ -2,14 +2,14 @@
 Based on [Food 52](https://food52.com/recipes/26984-nigel-slater-s-really-good-spaghetti-bolognese)
 
 ## Ingredients
-- 4 tablespoons butter
+- 4 tablespoons unsalted butter
 - 1 medium onion, finely chopped
 - 2 large cloves garlic, diced
 - 1 carrot, washed, peeled, and diced
 - 2 stalks celery, washed, peeled, and diced
 - 2 large, flat mushrooms such as portobello (about 4 ounces), finely chopped
 - 2 bay leaves
-- 1 pound ground beef or lamb
+- 1 pound ground beef
 - 3 tablespoons tomato paste
 - 2 cup crushed tomatoes // have 28-ounce can on hand
 - 3/4 cup stock

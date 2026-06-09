@@ -1,0 +1,34 @@
+# Staples
+
+- Berries (strawberries), 1 pint 
+- Apples, 4
+- Bananas, 1 bunch
+- Other fruit and veg for snacks x 3 
+- Lunch greens, 3 bags
+- Cheese for snack // rotate in paneer (WF), Israeli feta (TJ’s), mozzarella (in water), goat / sheep cheese [seaweed and yogurt instead bc of hormones]
+- Cottage cheese
+- Eggs 
+- Hummus (Ithaca brand)
+- Clarified butter (TJ’s) 
+- Milk
+- Alt milk
+- Yogurt 
+- Forbidden rice bread, 1 loaf (or heritage sourdough, if forbidden rice isn’t available)
+- Frozen bread, 1 loaf
+- Chicken broth, Kettle & Fire low sodium (unless there’s enough time for homemade)
+- Pasta, 1 pound
+- Pasta sauce, 1 jar
+- Sardines (Atlantic)
+- Oats
+- Triple seeds
+- Chia seeds
+- Walnuts
+- Seltzer 
+- Kombucha 
+- Frozen berries (blueberry, blackberry, raspberry - organic 365)
+- Frozen passion fruit
+- Ice cream 
+- Veggie burgers (Dr. Praeger)
+- Dry white wine: chardonnay or sauvignon blanc 
+- Red white wine: Cabernet, Pinot noir 
+- Whole chicken, Bell & Evans (had giblets and small part of neck, unlike LaBelle and Whole Foods Organic)

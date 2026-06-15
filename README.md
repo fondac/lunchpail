@@ -1,17 +1,18 @@
 ## Recipes for Dianna
-- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
-- [Spaghetti bolognese](https://fondac.github.io/lunchpail/entrees/spaghetti-bolognese.html)
-- [Japanese pea curry](https://fondac.github.io/lunchpail/entrees/japanese-curry.html)
-- Radishes: wash, slice, toss in oil, and roast at 375 F until tender
+- [Chinese poached chicken](https://fondac.github.io/lunchpail/proteins/chinese-poached-chicken.html)
+- [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
+- [Stuffed peppers](https://fondac.github.io/lunchpail/entrees/stuffed-peppers.html)
+- Sauté greens with garlic in stainless steel skillet
+- Cook 1.5 bundles of buckwheat noodles according to instructions, toss with sesame oil to prevent sticking
 
-## Menu for week of June 8
-- **Mon**: Ethiopian red lentils, roasted broccoli, rice // refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Shrimp and snow pea stir fry, brown rice // :) 
-- **Wed**: Spaghetti bolognese with roasted radishes, chopped arugula, light vinaigrette // cook spaghetti, assemble salad
-- **Thurs**: Japanese pea curry with bell pepper and carrot, brown rice // cook rice, soak fava beans
-- **Fri**: Fisherman stew, seasonal veg, frozen bread // silken tofu snack, roast fava beans, cook all
-- **Sat**: Feijoada with collards // cook all, meal plan
-- **Sun**: Turkey chili with cheesy cornbread // cook all
+## Menu for week of June 15
+- **Mon**: Turkey chili with cheesy cornbread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Tues**: Poached chicken, greens, buckwheat noodles // :) 
+- **Wed**: Ikarian longevitiy stew, baked plantains // soak fava beans, silken tofu snack, bake plantains 
+- **Thurs**: Stuffed peppers // roast fava beans 
+- **Fri**: camping // cook all
+- **Sat**: camping // cook all, meal plan
+- **Sun**: Leftover feijoada or eat out // cook all
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

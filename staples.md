@@ -11,6 +11,7 @@
 - Hummus (Ithaca brand)
 - Clarified butter (TJ’s) 
 - Milk
+- Kefir
 - Alt milk
 - Yogurt 
 - Forbidden rice bread, 1 loaf (or heritage sourdough, if forbidden rice isn’t available)

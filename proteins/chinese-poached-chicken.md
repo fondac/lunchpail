@@ -1,4 +1,4 @@
-# Poached chicken
+# Chinese poached chicken
 Based on [Woks of Life](https://thewoksoflife.com/cantonese-poached-chicken-w-ginger-scallion-oil-bai-qie-ji/)
 
 ## Ingredients

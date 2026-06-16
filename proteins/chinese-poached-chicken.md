@@ -5,7 +5,7 @@ Based on [Woks of Life](https://thewoksoflife.com/cantonese-poached-chicken-w-gi
 - 4 pound whole chicken (smaller is better)
 - 2 scallions
 - 5 slices ginger
-- large bowl of ice water
+- large bowl of ice water // edit: just use large bowl of water with chilling stick 
 
 Sauce
 - 3 scallions, finely minced, white and light green parts only

@@ -2,7 +2,7 @@
 - [Chinese poached chicken](https://fondac.github.io/lunchpail/proteins/chinese-poached-chicken.html)
 - [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
 - [Stuffed peppers](https://fondac.github.io/lunchpail/entrees/stuffed-peppers.html)
-- Cut bok choy into bite-size pieces, then sauté with garlic in stainless steel skillet
+- Cut bok choy (including stems) into bite-size pieces, then sauté with garlic in stainless steel skillet
 - Cook 1.5 bundles of buckwheat noodles according to instructions, toss with sesame oil to prevent sticking
 
 ## Menu for week of June 15

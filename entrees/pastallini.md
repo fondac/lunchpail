@@ -1,5 +1,5 @@
 # Pastallini
-Based on Milk Street cannellini beans and Smitten Kitchen/Sara Jenkins via Bon Appetit
+Based on Milk Street cannellini beans and [Smitten Kitchen](https://smittenkitchen.com/2013/01/pasta-and-white-beans-with-garlic-rosemary-oil/)/Sara Jenkins via Bon Appetit
 
 ## Ingredients
 - 1 yellow onion, cut into big chunks

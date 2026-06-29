@@ -1,4 +1,4 @@
-# Tempeh tikka misala
+# Tempeh tikka masala
 Based on [Sweet Potato Soul](https://sweetpotatosoul.com/tempeh-tikka-masala-easy-instant-pot/)
 
 ## Ingredients

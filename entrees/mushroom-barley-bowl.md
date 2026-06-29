@@ -1,5 +1,5 @@
 # Mushroom barley bowl
-[Lone Recipes](https://lonerecipes.com/recipes/mushroombarleybowl.html) via Dianna
+Slightly adapted from [Lone Recipes](https://lonerecipes.com/recipes/mushroombarleybowl.html) via Dianna
 
 ## Ingredients
 - 1 cup pearl barley

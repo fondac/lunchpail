@@ -27,7 +27,7 @@
 - [Spaghetti bolognese](https://fondac.github.io/lunchpail/entrees/spaghetti-bolognese.html)
 - [Split pea soup](https://fondac.github.io/lunchpail/entrees/split-pea-soup.html)
 - [Stuffed peppers](https://fondac.github.io/lunchpail/entrees/stuffed-peppers.html)
-- [Tempeh tikka misala](https://fondac.github.io/lunchpail/entrees/tempeh-tikka-misala.html)
+- [Tempeh tikka masala](https://fondac.github.io/lunchpail/entrees/tempeh-tikka-masala.html)
 - [Turkey chili with cheesy cornbread dumplings](https://fondac.github.io/lunchpail/entrees/turkey-chili-cheesy-cornbread-dumplings.html)
 - [Vegetable lasagna](https://fondac.github.io/lunchpail/entrees/vegetable-lasagna.html)
 

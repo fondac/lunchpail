@@ -1,5 +1,5 @@
 # Sauteed shrimp with scallion sauce
-Based on Milk Street's mo hanh adaptation
+Based on Milk Street's mo hanh adaptation in May–June 2020 print issue
 
 ## Ingredients
 - 1 tablespoon avocado oil

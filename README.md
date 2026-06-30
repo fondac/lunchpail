@@ -2,8 +2,8 @@
 - [Shrimp with scallion sauce](https://fondac.github.io/lunchpail/proteins/shrimp-scallion-sauce.html)
 - [Pastallini](https://fondac.github.io/lunchpail/entrees/pastallini.html)
 - [Mushroom barley bowl](https://fondac.github.io/lunchpail/entrees/mushroom-barley-bowl.html)
-- Seasonal veg #1
-- Seasonal veg #2
+- [Bok choy](https://fondac.github.io/lunchpail/vegetables/bok-choy.html)
+- [Asparagus](https://fondac.github.io/lunchpail/vegetables/asparagus.html)
 - [Ethiopian lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
 
 ## Menu for week of June 29

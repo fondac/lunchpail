@@ -1,7 +1,7 @@
 ## Recipes for Dianna
 - [Pork chile verde](https://fondac.github.io/lunchpail/entrees/pork-chile-verde.html)
 - [Eggplant bolognese](https://fondac.github.io/lunchpail/entrees/eggplant-bolognese.html)
-- [White bean soup and tomato stew](https://fondac.github.io/lunchpail/entrees/white-bean-tomato.html)
+- [White bean soup and tomato stew](https://fondac.github.io/lunchpail/entrees/white-bean-tomato-stew.html)
 - Aloo potato curry // need recipe 
 
 ## Menu for week of July 6

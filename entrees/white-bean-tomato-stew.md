@@ -13,6 +13,7 @@ Based on [NYT](https://web.archive.org/web/20220822210324/https://cooking.nytime
 - [omit] 1/2 teaspoon red-pepper flakes
 - 2 (15-ounce) cans white beans (such as butter or cannellini), rinsed
 - 1.5 cups broth or water
+- 1 bunch escarole or 2 endives, chopped into bite-size pieces
 - Extra-virgin olive oil for serving
 - Toasted bread for serving
 
@@ -21,5 +22,5 @@ Based on [NYT](https://web.archive.org/web/20220822210324/https://cooking.nytime
 2. On a sheet pan, toss the tomatoes with 1/4 cup oil, thyme, 1/4 teaspoon salt, and 1/4 teaspoon black pepper. Roast tomatoes until they're soft but not charred, maybe 15–25 minutes.
 3. Heat 2 tablespoons oil in a large stainless steel skillet or Dutch oven over medium. Add the onion, garlic, and red pepper. Cook until the onion is softened and the garlic is fragrant, 4 to 5 minutes.
 4. Stir in the beans and broth, then bring to a simmer. With the back of a spoon or spatula, gently smash about 1/2 cup of the beans so they slightly thicken the broth. 
-5. Add the tomatoes and any released juices to the stew. Simmer for 5–10 minutes to meld flavors.
+5. Add the tomatoes and any released juices to the stew, along with chopped escarole/endive. Simmer for 5–10 minutes to meld flavors and wilt leaves. 
 6. Serve with lemon-parsley mixture, drizzled olive oil, and bread.

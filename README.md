@@ -1,6 +1,6 @@
 ## Recipes for Dianna
 - [Pork chile verde](https://fondac.github.io/lunchpail/entrees/pork-chile-verde.html)
-- Eggplant bolognese // need recipe
+- [Eggplant bolognese](https://fondac.github.io/lunchpail/entrees/eggplant-bolognese.html)
 - White bean soup with escarole/endive // need recipe
 - Aloo potato curry // need recipe 
 

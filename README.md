@@ -2,7 +2,7 @@
 - Pork chile verde // need recipe
 - Eggplant bolognese // need recipe
 - White bean soup with escarole/endive // need recipe
-- Aloo potato curry // need recipe
+- Aloo potato curry // need recipe 
 
 ## Menu for week of July 6
 - **Mon**: steamed fish, broccolini, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna

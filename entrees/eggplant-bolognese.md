@@ -3,6 +3,7 @@ Based on [NYT](https://web.archive.org/web/20251113091034/https://cooking.nytime
 
 ## Ingredients
 - Salt and pepper
+- 1 pound rigatoni, fusilli or other short pasta
 - 6 tablespoons avocado oil
 - 1 pound Italian eggplant, peeled and chopped into 1/4-inch pieces (4 packed cups)
 - 6 ounces cremini (or white button) mushrooms, finely chopped (2 cups)
@@ -13,8 +14,7 @@ Based on [NYT](https://web.archive.org/web/20251113091034/https://cooking.nytime
 - 3 cups broth
 - 1 cup canned whole tomatoes, crushed with your hands 
 - 1 teaspoon dried oregano
-- 1 basil sprig, plus chopped basil for garnishing
-- 1 pound rigatoni, fusilli or other short pasta
+- 1 basil sprig, chopped, plus more for garnishing
 - 2 tablespoons unsalted butter
 - Freshly grated Parmesan, for serving
 

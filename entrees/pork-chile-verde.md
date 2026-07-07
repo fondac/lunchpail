@@ -22,6 +22,5 @@ Based on [NYT](https://web.archive.org/web/20250210010036/https://cooking.nytime
 4. Scrape everything from the pan into a food processor. Add the cilantro and purée until smooth.
 5. In a large Dutch oven, heat the remaining 2 tablespoons oil over medium. Season pork with salt and pepper and add half to the pot. Cook, turning occasionally, until golden all over. Transfer to a plate and repeat with the remaining pork.
 6. Add the onion to the pot and cook, stirring occasionally, until softened, about 7–10 minutes. Add cumin and oregano, and stir until fragrant, about 1 minute.
-7. Add back the pork with any accumulated juices, then the chard and tomatillo purée.
-8. Add chicken broth as needed to reach a thick stew-like consistency.
+7. Add back the pork with any accumulated juices, then the chard and tomatillo purée. Cook until chard is wilted and soft. Add chicken broth as needed to reach a thick stew-like consistency.
 9. Serve over rice and topped with cilantro. 

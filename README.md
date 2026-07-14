@@ -1,6 +1,6 @@
 ## Recipes for Dianna
 - [Mexican barley casserole](https://fondac.github.io/lunchpail/entrees/mexican-barley-casserole.html)
-- Double recipe: [Ikarian stew](https://fondac.github.io/lunchpail/entrees/eggplant-bolognese.html)
+- Double recipe: [Ikarian stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
 - [Bean and broccoli rabe stew](https://fondac.github.io/lunchpail/entrees/bean-stew-broccoli-rabe.html)
 - As time allows: [Brussels sprouts](https://fondac.github.io/lunchpail/vegetables/brussels.html)
 

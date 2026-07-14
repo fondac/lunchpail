@@ -1,17 +1,17 @@
 ## Recipes for Dianna
-- [Pork chile verde](https://fondac.github.io/lunchpail/entrees/pork-chile-verde.html)
-- [Eggplant bolognese](https://fondac.github.io/lunchpail/entrees/eggplant-bolognese.html)
-- [White bean soup and tomato stew](https://fondac.github.io/lunchpail/entrees/white-bean-tomato-stew.html)
-- If time allows, any vegetable cutting prep or even starting the dish would be great: [Aloo potato curry](https://fondac.github.io/lunchpail/entrees/aloo-potato-curry.html)
+- [Mexican barley casserole](https://fondac.github.io/lunchpail/entrees/mexican-barley-casserole.html)
+- Double recipe: [Ikarian stew](https://fondac.github.io/lunchpail/entrees/eggplant-bolognese.html)
+- [Bean and broccoli rabe stew](https://fondac.github.io/lunchpail/entrees/bean-stew-broccoli-rabe.html)
+- As time allows: [Brussels sprouts](https://fondac.github.io/lunchpail/vegetables/brussels.html)
 
-## Menu for week of July 6
-- **Mon**: steamed fish, broccolini, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: pork chile verde, rice // :) 
-- **Wed**: eggplant bolognese // :) 
-- **Thurs**: white bean soup with escarole/endive and bread // :) 
-- **Fri**: aloo potato curry, rice // cook all
-- **Sat**: beef tendon, udon noodles, bok choy or daikon radish // cook all, meal plan
-- **Sun**: leftovers or takeout // prep all
+## Menu for week of July 13
+- **Mon**: salmon, seasonal veg, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Tues**: Ikarian stew (double recipe), plantains // bake plantains
+- **Wed**: bean and broccoli rabe soup, bread // :) 
+- **Thurs**: Mexican barley casserole, brussels // steam and broil brussels
+- **Fri**: packaged tortellini, pasta sauce // cook all
+- **Sat**: Mom's buckwheat thing, leftovers, or takeout // cook all, meal plan
+- **Sun**: leftovers or takeout // ?
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

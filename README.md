@@ -1,16 +1,18 @@
 ## Recipes for Dianna
-- [Mexican barley casserole](https://fondac.github.io/lunchpail/entrees/mexican-barley-casserole.html)
-- Double recipe: [Ikarian stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
-- [Bean and broccoli rabe stew](https://fondac.github.io/lunchpail/entrees/bean-stew-broccoli-rabe.html)
-- As time allows: [Brussels sprouts](https://fondac.github.io/lunchpail/vegetables/brussels.html)
+- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
+- Cook couscous, cut tomato and cucumber, make tahini sauce _______
+- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
+- [Meatballs](https://fondac.github.io/lunchpail/proteins/meatballs.html)
+- Pasta sauce _______
+- As time allows: seasonal veg 1, seasonal veg 2 ________
 
-## Menu for week of July 13
-- **Mon**: salmon, seasonal veg, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Ikarian stew (double recipe), plantains // bake plantains
-- **Wed**: bean and broccoli rabe soup, bread // :) 
-- **Thurs**: Mexican barley casserole, brussels // steam and broil brussels
-- **Fri**: packaged tortellini, pasta sauce // cook all
-- **Sat**: Mom's buckwheat thing, leftovers, or takeout // cook all, meal plan
+## Menu for week of July 20
+- **Mon**: white fish, seasonal veg, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Tues**: Falafel, couscous, tomato, cucumber, tahini sauce // prep fixins 
+- **Wed**: Lentil salad, seasonal veg, rice // prep seasonal veg, cook rice
+- **Thurs**: Turkey meatballs, pasta, seasonal veg // prep seasonal veg, cook pasta
+- **Fri**: Scallops, green beans, farro // cook all
+- **Sat**: Katie's pig roast // bring something, meal plan
 - **Sun**: leftovers or takeout // ?
 
 ## All recipes and notes

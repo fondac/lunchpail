@@ -1,7 +1,7 @@
 ## Recipes for Dianna
 - [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
 - Cook couscous, cut tomato and cucumber, make tahini sauce _______
-- [Falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
+- [Lentil salad](https://fondac.github.io/lunchpail/entrees/lentil-salad.html)
 - [Meatballs](https://fondac.github.io/lunchpail/proteins/meatballs.html)
 - Pasta sauce _______
 - As time allows: seasonal veg 1, seasonal veg 2 ________

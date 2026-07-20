@@ -4,7 +4,7 @@
 - [Lentil salad](https://fondac.github.io/lunchpail/entrees/lentil-salad.html)
 - [Meatballs](https://fondac.github.io/lunchpail/proteins/meatballs.html)
 - Pasta sauce _______
-- As time allows: seasonal veg 1, seasonal veg 2 ________
+- As time allows: seasonal veg 1, seasonal veg 2, pickle onions and jalapeno ________
 
 ## Menu for week of July 20
 - **Mon**: white fish, seasonal veg, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna

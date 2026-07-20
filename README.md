@@ -10,7 +10,7 @@
 - **Mon**: white fish, seasonal veg, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
 - **Tues**: Falafel, couscous, tomato, cucumber, pickled onion and jalapeno, tahini sauce // prep fixins 
 - **Wed**: Lentil salad, seasonal veg, rice // prep seasonal veg, cook rice
-- **Thurs**: Turkey meatballs, pasta, seasonal veg // prep seasonal veg, cook pasta
+- **Thurs**: Turkey meatballs, pasta and sauce, seasonal veg // prep seasonal veg, cook pasta
 - **Fri**: Scallops, green beans, farro // cook all
 - **Sat**: Katie's pig roast // bring something, meal plan
 - **Sun**: leftovers or takeout // ?

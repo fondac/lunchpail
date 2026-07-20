@@ -8,7 +8,7 @@
 
 ## Menu for week of July 20
 - **Mon**: white fish, seasonal veg, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Falafel, couscous, tomato, cucumber, tahini sauce // prep fixins 
+- **Tues**: Falafel, couscous, tomato, cucumber, pickled onion and jalapeno, tahini sauce // prep fixins 
 - **Wed**: Lentil salad, seasonal veg, rice // prep seasonal veg, cook rice
 - **Thurs**: Turkey meatballs, pasta, seasonal veg // prep seasonal veg, cook pasta
 - **Fri**: Scallops, green beans, farro // cook all

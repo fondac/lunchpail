@@ -15,8 +15,8 @@ Lentils
 - 1 cup black or French-style lentils, picked through
 - 1/2 teaspoon salt
 - 1/2 red onion, very thinly sliced 
-- 2 Persian cucumbers, juicy seeds removed and diced into small cubes
-- 1/2 cup fresh mint leaves, chopped
+- 2 Persian cucumbers, juicy seeds removed and diced into small cubes // if not available, substitute 1 English cucumber
+- 1/2 cup fresh mint leaves, chopped // if not available, substitute 1 teaspoon dried mint, first rubbed between fingers to finely crush and release oils
 - 1/2 cup (125 g) crumbled feta or goat cheese
 
 ## Instructions

@@ -13,11 +13,11 @@
     - Use either a steel skillet over medium-low heat on stovetop or a metal shet pan at 375 F. Cook garlic and squash with avocado oil until squash is cooked through and slightly golden (not brown). 
 
 ## Menu for week of July 20
-- **Mon**: white fish, seasonal veg, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Mon**: white fish, green beans, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
 - **Tues**: Falafel, pita, tomato, cucumber, pickled jalapeno, tahini sauce // prep fixins 
 - **Wed**: Lentil salad, seasonal veg, rice // prep seasonal veg, cook rice
 - **Thurs**: Turkey meatballs, pasta and sauce, seasonal veg // prep seasonal veg, cook pasta
-- **Fri**: Scallops, green beans, farro // cook all
+- **Fri**: Scallops, collards (they're already washed), farro // cook all
 - **Sat**: Katie's pig roast // bring something, meal plan
 - **Sun**: leftovers or takeout // ?
 

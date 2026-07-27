@@ -9,7 +9,7 @@
 
 ## Menu for week of July 27
 - **Mon**: Salmon, chard, asparagus, Japanese sweet potato // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Moqueca, seasonal veg, rice // cook rice, seasonal veg, gravy?
+- **Tues**: Moqueca, brussels or seasonal veg, rice // cook rice, seasonal veg, gravy?
 - **Wed**: Poached chicken with udon, greens, mushrooms, gravy? // :)
 - **Thurs**: Lentils, micro greens, rice // cook rice, micro greens
 - **Fri**: Short rib sauce, pasta // cook all

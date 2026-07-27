@@ -13,7 +13,7 @@
 - **Wed**: Poached chicken with udon, greens, mushrooms, gravy? // :)
 - **Thurs**: Lentils, micro greens, rice // cook rice, micro greens
 - **Fri**: Short rib sauce, pasta // cook all
-- **Sat**: Fisherman stew, frozen veg, bread // meal plan
+- **Sat**: Fisherman stew, frozen veg, bakery bread // meal plan
 - **Sun**: leftovers or takeout // ?
 
 ## All recipes and notes

@@ -1,17 +1,15 @@
 ## Recipes for Dianna
 - [Moqueca](https://fondac.github.io/lunchpail/entrees/moqueca.html)
-- Seasonal veg
-- [Lentil salad](https://fondac.github.io/lunchpail/entrees/lentil-salad.html)
 - [Poached chicken](https://fondac.github.io/lunchpail/proteins/chinese-poached-chicken.html)
 - [Udon with greens and mushroom](https://fondac.github.io/lunchpail/entrees/udon-greens-mushroom.html)
 - [Ethiopian lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
-// note about carving chicken
+- [Brussels sprouts](https://fondac.github.io/lunchpail/vegetables/brussels.html)
 
 ## Menu for week of July 27
 - **Mon**: Salmon, chard, asparagus, Japanese sweet potato, yuca root // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Moqueca, brussels or seasonal veg, rice // cook rice, seasonal veg, gravy?
+- **Tues**: Moqueca, brussels, rice // cook rice, brussels, yuca root, gravy?
 - **Wed**: Poached chicken with udon, greens, mushrooms, gravy? // :)
-- **Thurs**: Lentils, micro greens, rice // cook rice, micro greens
+- **Thurs**: Ethiopian lentils, micro greens, rice // cook rice, micro greens
 - **Fri**: Short rib sauce, pasta // cook all
 - **Sat**: Fisherman stew, frozen veg, bakery bread // meal plan
 - **Sun**: leftovers or takeout // ?

@@ -11,7 +11,7 @@ From [Milk Street](https://www.177milkstreet.com/recipes/brazilian-fish-stew-moq
 - 3/4 teaspoon sweet paprika
 - 14.5 ounce can diced tomatoes, drained
 - Ground black pepper
-- 4 6-ounce skinless cod fillets
+- 4 6-ounce skinless cod fillets // July 28 substitute in haddock
 - 1 tablespoon grated lime zest, plus 2 tablespoons lime juice, plus more juice if needed
 - 8 ounce bottle clam juice
 - 1 cup coconut milk

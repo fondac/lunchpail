@@ -21,6 +21,6 @@ Sauce
 5. Once you’ve released that water, lower the chicken back into the pot, and bring to a boil again. When the water is just starting to boil, turn the heat down. Keep it at barely a simmer. There should be very little movement in the water, but it also shouldn’t be still.
 6. Cover the pot, and keep the heat around the lowest setting so the liquid continues to simmer slowly. Cook for about 35-40 minutes, roughly 10-11 minutes per pound. Depending on the size of your chicken, it may take more or less time to cook it through. Check to make sure the water is bubbling slowly/gently and not boiling too vigorously, but otherwise try to avoid uncovering the pot while it’s cooking.
 7. To check for doneness, poke a chopstick or skewer into the thigh to make sure the juices run clear. Cut into a thicker part of the chicken meat to check for doneness that way as well. 
-8. Carefully lift the chicken out of the pot and transfer it to a large bowl of ice water. Cool completely, then remove from water.
+8. Carefully lift the chicken out of the pot and transfer it to a large bowl of ice water. Save pot liquid for another purpose. Cool chicken completely, then remove from water.
 9. While chicken is cooling, make the sauce. Mix all the ingredients in a small bowl. 
 10. Carve the chicken. Save the bones separately. 

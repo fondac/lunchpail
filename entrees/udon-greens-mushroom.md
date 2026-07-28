@@ -3,7 +3,7 @@
 ## Ingredients
 - 10 oz dried udon noodles
 - 5 tablespoons avocado oil
-- 1 pound fresh shiitake mushrooms, hard tips of stems removed
+- 1 pound fresh shiitake mushrooms, stems removed and stored separately
 - 1 bunch collard greens, stemmed, cut lengthwise then into 1/4-inch strips
 - 3 tablespoons black vinegar
 - 3 tablespoons soy sauce

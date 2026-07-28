@@ -8,7 +8,7 @@ Adapted from [Daring Grourmet](https://www.daringgourmet.com/misir-wat-ethiopian
 - 1 Roma tomato, very finely chopped
 - 3 tablespoons tomato paste
 - 1 cup red lentils, rinsed
-- 2 1/2 cups chicken broth
+- 2 1/2 cups chicken broth // July 28 use broth from poached chicken
 
 ## Instructions
 1. Melt 3 tablespoons of the clarified butter in a Dutch oven.

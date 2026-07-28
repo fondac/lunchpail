@@ -3,12 +3,12 @@ Based on [Woks of Life](https://thewoksoflife.com/cantonese-poached-chicken-w-gi
 
 ## Ingredients
 - 4 pound whole chicken (smaller is better)
-- 2 scallions
+- 2 scallions // July 28 omit
 - 5 slices ginger
 - large bowl of ice water // edit: just use large bowl of water with chilling stick 
 
 Sauce
-- 3 scallions, finely minced, white and light green parts only
+- 3 scallions, finely minced, white and light green parts only // July 28 omit
 - 1 tablespoon ginger, finely minced
 - 3 tablespoons avocado oil
 - 1 tablespoons soy sauce
@@ -22,5 +22,5 @@ Sauce
 6. Cover the pot, and keep the heat around the lowest setting so the liquid continues to simmer slowly. Cook for about 35-40 minutes, roughly 10-11 minutes per pound. Depending on the size of your chicken, it may take more or less time to cook it through. Check to make sure the water is bubbling slowly/gently and not boiling too vigorously, but otherwise try to avoid uncovering the pot while it’s cooking.
 7. To check for doneness, poke a chopstick or skewer into the thigh to make sure the juices run clear. Cut into a thicker part of the chicken meat to check for doneness that way as well. 
 8. Carefully lift the chicken out of the pot and transfer it to a large bowl of ice water. Cool completely, then remove from water.
-9. While chicken is cooling, make the sauce. Mix the scallions, ginger, and avocado oil in a small bowl. Spoon half of that mixture to a second small bowl. Add soy sauce to the second bowl.
+9. While chicken is cooling, make the sauce. Mix all the ingredients in a small bowl. 
 10. Carve the chicken. Save the bones separately. 

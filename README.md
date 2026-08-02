@@ -1,18 +1,18 @@
 ## Recipes for Dianna
-- [Moqueca](https://fondac.github.io/lunchpail/entrees/moqueca.html)
-- [Poached chicken](https://fondac.github.io/lunchpail/proteins/chinese-poached-chicken.html)
-- [Udon with greens and mushroom](https://fondac.github.io/lunchpail/entrees/udon-greens-mushroom.html)
-- [Ethiopian lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
-- [Brussels sprouts](https://fondac.github.io/lunchpail/vegetables/brussels.html)
+- Shrimp scampi with green pasta
+- Chicken Parmesan
+- Kare kare
+- Leafy green
+- Mustard greens
 
-## Menu for week of July 27
-- **Mon**: Salmon, chard, asparagus, Japanese sweet potato, yuca root // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Moqueca, brussels, rice // cook rice, brussels, yuca root, gravy?
-- **Wed**: Poached chicken with udon, greens, mushrooms, gravy? // :)
-- **Thurs**: Ethiopian lentils, micro greens, rice // cook rice, micro greens
-- **Fri**: Short rib sauce, pasta // cook all
-- **Sat**: Fisherman stew, frozen veg, bakery bread // meal plan
-- **Sun**: leftovers or takeout // ?
+## Menu for week of Aug 3
+- **Mon**: Strawberry ice cube popsicles, nut-crusted chicken, Chinese eggplant or seasonal veg, barley, oxtail prep // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Tues**: Shrimp scampi, green pasta or spinach // :)  
+- **Wed**: Chicken Parmesan, leafy green // assemble sandwiches 
+- **Thurs**: Kare kare, rice // cook rice, defrost meat
+- **Fri**: Soybean stew, steak from freezer, mustard greens or similar, rice // cook all
+- **Sat**: Frittata // meal plan, cook all 
+- **Sun**: leftovers or takeout // ?  
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

@@ -1,13 +1,15 @@
 ## Recipes for Dianna
-- Shrimp scampi with green pasta
+- Nut-crusted chicken
+- Eggplant or seasonal veg
+- Barley
 - Chicken Parmesan
 - Kare kare
 - Leafy green
-- Mustard greens
+- ?? Mustard greens
 
 ## Menu for week of Aug 3
-- **Mon**: Strawberry ice cube popsicles, nut-crusted chicken, Chinese eggplant or seasonal veg, barley, oxtail prep // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Shrimp scampi, green pasta or spinach // :)  
+- **Mon**: Strawberry ice cube popsicles, shrimp scampi with arugula?, green pasta, oxtail prep // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Tues**: Nut-crusted chicken, Chinese eggplant or seasonal veg, barley // :)  
 - **Wed**: Chicken Parmesan, leafy green // assemble sandwiches 
 - **Thurs**: Kare kare, rice // cook rice, defrost meat
 - **Fri**: Soybean stew, steak from freezer, mustard greens or similar, rice // cook all

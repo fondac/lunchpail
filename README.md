@@ -9,9 +9,9 @@
 
 ## Menu for week of Aug 3
 - **Mon**: Strawberry ice cube popsicles, green pasta with shellfish, oxtail prep // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Nut-crusted chicken, Chinese eggplant or seasonal veg, barley // :)  
-- **Wed**: Chicken Parmesan, leafy green // assemble sandwiches 
-- **Thurs**: Kare kare, rice // cook rice, defrost meat
+- **Tues**: Nut-crusted chicken w Japanese milk bread, mayo, greens, Calabrian peppers, lemon // :)  
+- **Wed**: Chicken Parmesan w baguettes, eggplant or seasonal veg // assemble sandwiches 
+- **Thurs**: Kare kare, barley // cook rice, defrost meat
 - **Fri**: Soybean stew, steak from freezer, mustard greens or similar, rice // cook all
 - **Sat**: Frittata // meal plan, cook all 
 - **Sun**: leftovers or takeout // ?  

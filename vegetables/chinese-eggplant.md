@@ -15,7 +15,7 @@ Sauce
 - 2 tablespoons soy sauce
 - 1 teaspoon sugar
 - 1 tablespoon chinkiang (black rice) vinegar
-- 1 tablespoon shaoxing wine or dry sherry // sub with 1/2 tablespoon rice wine vinegar
+- 1 tablespoon shaoxing wine (if unavailable, sub with 1/2 tablespoon rice wine vinegar)
 - 1 tbsp sesame oil
 - 1/2 teaspoon five spice
 

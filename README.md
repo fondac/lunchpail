@@ -8,7 +8,7 @@
 - ?? Mustard greens
 
 ## Menu for week of Aug 3 
-- **Mon**: Strawberry ice cube popsicles, , oxtail and almond meal prep // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Mon**: Watermelon ice cube popsicles, , oxtail and almond meal prep // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
 - **Tues**: Nut-crusted chicken w Japanese milk bread, mayo, greens, Calabrian peppers, lemon + banana muffins // :)  green pasta with shellfish 
 - **Wed**: Chicken Parmesan w baguettes, Chinese eggplant or seasonal veg // assemble sandwiches 
 - **Thurs**: Kare kare, barley // cook rice, defrost meat

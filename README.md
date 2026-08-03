@@ -10,7 +10,7 @@
 - **Mon**: Watermelon ice cube popsicles, Chicken Parmesan w baguettes, seasonal veg, oxtail and almond meal prep // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
 - **Tues**: Green pasta with shellfish + banana muffins // bake muffins
 - **Wed**: Nut-crusted chicken w Japanese milk bread, mayo, greens, Calabrian peppers, lemon + Chinese eggplant or seasonal veg // assemble sandwiches 
-- **Thurs**: Kare-kare, barley // cook barley, defrost meat
+- **Thurs**: Kare-kare, barley // cook barley, defrost meat, soak soybeans
 - **Fri**: Soybean stew, steak from freezer, mustard greens or similar, rice // cook all 
 - **Sat**: Frittata // meal plan, cook all 
 - **Sun**: leftovers or takeout // ?  

@@ -7,7 +7,7 @@
 - Mustard greens: cut into thin strips and sauté with 3 cloves garlic in avocado oil over medium-low heat until cooked through
 
 ## Menu for week of Aug 3 
-- **Mon**: Watermelon ice cube popsicles, Chicken Parmesan w baguettes, seasonal veg, oxtail and almond meal prep + defrost broth // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
+- **Mon**: Watermelon ice cube popsicles, Chicken Parmesan w baguettes, seasonal veg, oxtail and almond meal prep + defrost broth + make ground rice flour // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
 - **Tues**: Green pasta with shellfish + banana muffins // bake muffins
 - **Wed**: Nut-crusted chicken w Japanese milk bread, mayo, greens, Calabrian peppers, lemon + Chinese eggplant or seasonal veg // assemble sandwiches 
 - **Thurs**: Kare-kare, barley // cook barley, defrost meat, soak soybeans

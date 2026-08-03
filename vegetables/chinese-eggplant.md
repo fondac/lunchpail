@@ -10,7 +10,7 @@
 - 4 scallions, finely chopped on the bias
 
 Sauce
-- 1 teaspoon ground Szechuan or black peppercorns — consider a satchet for these
+- 1 teaspoon ground Szechuan or black peppercorns
 - 1 teaspoon chili flakes
 - 2 tablespoons soy sauce
 - 1 teaspoon sugar

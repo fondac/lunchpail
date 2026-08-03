@@ -1,0 +1,12 @@
+- 2 cups light spelt flour // sub einkorn
+- 1 teaspoon ground cinnamon // also added nutmeg, clove, allspice 
+- 1 teaspoon baking powder
+- 1 teaspoon baking soda
+- 3/4 teaspoon fine sea salt
+- 3/4 cup chocolate chunks/chips
+- 3/4 cup pecan halves, chopped // subbed walnuts 
+- 4-5 very ripe bananas, peeled (1 ½ cups mashed banana total) // sub 1 can pumpkin puree 
+- 1/2 cup maple syrup (if not using banana or pumpkin)
+- 1/2 cup melted coconut oil (or avocado oil, sunflower oil, melted vegan butter, plus extra) // used coconut oil and butter 
+- 1 teaspoon vanilla extract
+- whipped cream 

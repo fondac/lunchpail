@@ -18,7 +18,7 @@ Vegetables and sauce:
 - 12 ounces string beans, cut into 2-inch pieces (if yard-long beans unavailable)
 - 12 ounces Japanese or Chinese eggplants (2 medium), cut on the bias into 1/2-inch slices
 - 3 heads baby bok choy, cut into quarters 
-- 1 (18-ounce) can banana hearts or banana blossoms (pusong saging), drained (optional)
+- 1 (18-ounce) can banana hearts or banana blossoms (pusong saging), drained (optional) // Aug 4 omit
 - 5 tablespoons creamy peanut butter
 - 1 tablespoon fish sauce (if shrimp paste unavailable)
 - 1 tablespoon soy sauce (if shrimp paste unavailable)

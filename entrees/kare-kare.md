@@ -3,7 +3,7 @@
 ## Ingredients
 
 Meat, stock, and rice mixture:
-- 3 pounds oxtails
+- 3 pounds oxtails // Aug 4 sub in short ribs
 - 1 quart broth
 - 4 garlic cloves
 - 1/2 teaspoon salt

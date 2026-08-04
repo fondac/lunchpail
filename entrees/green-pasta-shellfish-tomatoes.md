@@ -26,7 +26,7 @@ To serve
 - Grated Parm. Reg.  
 
 ## Instructions
-1. In a large skillet, melt butter with oil. Add garlic and sauté until fragrant, about 1 minute.
+1. In a large stainless steel skillet, melt butter with oil. Add garlic and sauté until fragrant, about 1 minute.
 2. Add broth, tomatoes, shrimp shells (if cooking shrimp), and black pepper. Simmer over medium-low heat for 8 minutes to meld flavors. 
 3. Remove shrimp shells if used and increase heat slightly. Add shellfish and sauté just until done (until shrimp tails curl or scallops turn opaque), 2–5 minutes depending on size. 
 4. Off heat, stir in the parsley, lemon juice, and vinegar. 

@@ -8,7 +8,7 @@ Shellfish
 - 1 pint cherry tomatoes, halved
 - 1/2 cup broth
 - 1/4 teaspoon black pepper
-- 1.5 pounds shrimp, peeled and deveined (shells set aside) OR 1 pound scallops 
+- 1.5 pounds shrimp, peeled and deveined (shells set aside) OR 1 pound scallops // Aug 4 use 1 bag scallops
 - 1/3 cup chopped parsley 
 - Juice of half a lemon
 - 1 T white wine vinegar
@@ -19,7 +19,7 @@ Pasta
 - 2 cups coarsely chopped mixed basil and mint
 - 1/2 c of extra-virgin olive oil, 1/2 c pine nuts, 1/4 c nutritional yeast
 - Juice and zest from 1 lemon
-- 1/4 cup pasta water // or shellfish liquid ______?? 
+- 1/4 cup pasta water 
 
 To serve
 - Red chili pepper flakes
@@ -31,6 +31,6 @@ To serve
 3. Remove shrimp shells if used and increase heat slightly. Add shellfish and sauté just until done (until shrimp tails curl or scallops turn opaque), 2–5 minutes depending on size. 
 4. Off heat, stir in the parsley, lemon juice, and vinegar. 
 5. In a large pot, cook the pasta (according to box instructions if using store-bought). Reserve 1/2 cup of the cooking liquid. Strain pasta and set aside in a large bowl. 
-6. In a food processor, combine the arugula/spinach, basil/mint, olive oil, pine nuts, nutritional yeast, lemon juice/zest, and 1/4 cup of the pasta liquid (or shellfish liquid ______ ???) until creamy. You may need to scrape sides/bottom and pulse in stages. Add more liquid if you want a softer consistency. 
+6. In a food processor, combine the arugula/spinach, basil/mint, olive oil, pine nuts, nutritional yeast, lemon juice/zest, and 1/4 cup of the pasta liquid (and/or shellfish liquid, if there is any) until creamy. You may need to scrape sides/bottom and pulse in stages. Add more liquid if you want a softer consistency. 
 7. Pour vegetable sauce over pasta and combine well.
 8. Serve pasta topped with shellfish, pepper flakes, and cheese. 

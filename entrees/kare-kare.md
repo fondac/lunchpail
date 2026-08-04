@@ -32,7 +32,7 @@ For serving:
 
 Meat and rice mixture:
 1. Place oxtail, broth, garlic, salt, and pepper in an Instant Pot. Cook on high pressure for 50 minutes and allow for natural release.
-2. Skim the fat from the top and discard. Set oxtails aside and reserve cooking liquid.
+2. Skim the fat from the top and discard. Set oxtails aside and reserve cooking liquid. // Aug 4 start here
 3. Place ground rice/rice flour in a large pot or Dutch oven. Cook over medium heat, stirring often, until light golden and nutty-aromatic, about 2 minutes.
 4. Transfer to a small bowl. Add annatto powder and 1.5 cups of the beef stock, and stir until smooth.
 

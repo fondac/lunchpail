@@ -1,19 +1,17 @@
-## Recipes for Dianna
-- [Green pasta with shellfish and tomatoes](https://fondac.github.io/lunchpail/entrees/green-pasta-shellfish-tomatoes.html)
-- [Nut-crusted chicken](https://fondac.github.io/lunchpail/proteins/nut-crusted-chicken-cutlets.html)
-- [Kare-kare](https://fondac.github.io/lunchpail/entrees/kare-kare.html)
-- 3 zucchini squash: cut off ends (don't peel), slice thinly, and sauté in stainless steel skillet or bake on stainless sheet pan at 350 F until just cooked through
-- Barley: cook 1.5 cups according to instructions on bag
-- Mustard greens: cut into thin strips and sauté with 3 cloves garlic with avocado oil in stainless steel skillet over medium-low heat until cooked through
+## Recipes for Tuesday
+- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
+- [Salmon cakes](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
+- [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
+- [Bok choy](https://fondac.github.io/lunchpail/vegetables/bok-choy.html)
 
-## Menu for week of Aug 3 
-- **Mon**: Takeout, oxtail and almond meal prep + defrost broth + make ground rice flour // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, text Dianna, prep kitchen for Dianna
-- **Tues**: Green pasta with shellfish + banana muffins + watermelon ice cube popsicles + yuca root // make muffins, watermelon ice cube popsicles
-- **Wed**: Nut-crusted chicken w Japanese milk bread, mayo, greens, Calabrian peppers, lemon + zucchini // assemble sandwiches 
-- **Thurs**: Kare-kare, barley // cook barley
-- **Fri**: Chicken Parmesan w baguettes, corn, mustard greens // cook all 
-- **Sat**: Frittata + rhubarb crisp // meal plan, cook all, defrost meat, soak soybeans
-- **Sun**: Soybean stew, steak from freezer, rice // leftovers or takeout // cook all, ? [skip greens]
+## Menu for week of Aug 10 
+- **Mon**: Leftovers + yuca root + mustard greens + rhubarb crisp // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost shrimp and salmon
+- **Tues**: Shrimp and snow pea stir fry, rice // cook rice
+- **Wed**: Salmon cakes, bok choy // :)  
+- **Thurs**: Idlewild // :)
+- **Fri**: Enchilada casserole // shop and cook for tmrw
+- **Sat**: leftovers or Ikarian longevity stew, plantain chips, chard // meal plan
+- **Sun**: leftovers or black bean-cauliflower-radish mix, rice // shop and cook, shopping list
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

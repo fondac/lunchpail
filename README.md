@@ -5,7 +5,7 @@
 - [Bok choy](https://fondac.github.io/lunchpail/vegetables/bok-choy.html)
 
 ## Menu for week of Aug 10 
-- **Mon**: Leftovers + yuca root + mustard greens + rhubarb crisp // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost shrimp and salmon
+- **Mon**: Leftovers, yuca root, mustard greens, corn, broccoli, rhubarb crisp // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost shrimp and salmon
 - **Tues**: Shrimp and snow pea stir fry, rice // cook rice
 - **Wed**: Salmon cakes, bok choy // :)  
 - **Thurs**: Idlewild // :)

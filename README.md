@@ -8,9 +8,9 @@
 - **Mon**: Fish, seasonal veg, barley // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____, start plantains
 - **Tues**: Ikarian bean stew, plantains // cook plantains
 - **Wed**: Eggplant with lamb, tomato, pine nuts + sliced potatoes // cook potatoes, defrost chicken
-- **Thurs**: Chicken with saucy onions, seasonal veg, rice // cook all
-- **Fri**: Baked tofu, seasonal veg, rice // cook all
-- **Sat**: leftovers or takeout // meal plan
+- **Thurs**: Stuffed peppers, seasonal veg // cook veg
+- **Fri**: Chicken with saucy onions, seasonal veg, rice // cook all
+- **Sat**: Baked tofu, seasonal veg, rice // cook all, meal plan
 - **Sun**: leftovers or takeout // shop, shopping list
 
 ## All recipes and notes

@@ -5,7 +5,7 @@
 - Potatoes: cut into 1/8– to 1/4-inch slices, toss in avocado oil and black pepper, bake at 375 F for 20–40 min until easily pierced and light golden 
 
 ## Menu for week of Aug 31 
-- **Mon**: Fish, seasonal veg, barley // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____, start plantains
+- **Mon**: Fish, seasonal veg, barley // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice for peppers / anything else?, start plantains
 - **Tues**: Ikarian bean stew, plantains // cook plantains
 - **Wed**: Eggplant with lamb, tomato, pine nuts + sliced potatoes // cook potatoes, defrost chicken
 - **Thurs**: Stuffed peppers, seasonal veg // cook veg

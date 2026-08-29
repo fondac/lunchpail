@@ -1,17 +1,17 @@
 ## Recipes for Tuesday
-- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
-- [Salmon cakes](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
-- [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
-- [Bok choy](https://fondac.github.io/lunchpail/vegetables/bok-choy.html)
+- [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
+- [Eggplant with lamb, tomato, pine nuts](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
+- [Stuffed peppers](https://fondac.github.io/lunchpail/entrees/stuffed-peppers.html)
+- Bake potatoes ____ 
 
-## Menu for week of Aug 10 
-- **Mon**: Leftovers, yuca root, mustard greens, corn, broccoli, rhubarb crisp // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost shrimp and salmon
-- **Tues**: Shrimp and snow pea stir fry, rice // cook rice
-- **Wed**: Salmon cakes, bok choy // :)  
-- **Thurs**: Idlewild // :)
-- **Fri**: Enchilada casserole // shop and cook for tmrw
-- **Sat**: leftovers or Ikarian longevity stew, plantain chips, chard // meal plan
-- **Sun**: leftovers or black bean-cauliflower-radish mix, rice // shop and cook, shopping list
+## Menu for week of Aug 31 
+- **Mon**: Fish, seasonal veg, barley // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____, start plantains
+- **Tues**: Ikarian bean stew, plantains // cook plantains
+- **Wed**: Eggplant with lamb, tomato, pine nuts + sliced potatoes // cook potatoes, defrost chicken
+- **Thurs**: Chicken with saucy onions, seasonal veg, rice // cook all
+- **Fri**: Baked tofu, seasonal veg, rice // cook all
+- **Sat**: leftovers or takeout // meal plan
+- **Sun**: leftovers or takeout // shop, shopping list
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

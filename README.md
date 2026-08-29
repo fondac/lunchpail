@@ -2,7 +2,7 @@
 - [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
 - [Eggplant with lamb, tomato, pine nuts](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
 - [Stuffed peppers](https://fondac.github.io/lunchpail/entrees/stuffed-peppers.html)
-- Bake potatoes ____ 
+- Potatoes: cut into 1/8– to 1/4-inch slices, toss in avocado oil and black pepper, bake at 375 F for 20–40 min until easily pierced and light golden 
 
 ## Menu for week of Aug 31 
 - **Mon**: Fish, seasonal veg, barley // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____, start plantains

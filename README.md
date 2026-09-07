@@ -1,16 +1,16 @@
 ## Recipes for Tuesday
-- [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
-- [Eggplant with lamb, tomato, pine nuts](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
-- [Stuffed peppers](https://fondac.github.io/lunchpail/entrees/stuffed-peppers.html)
-- Potatoes: cut into 1/8– to 1/4-inch slices, toss in avocado oil and black pepper, bake at 375 F for 20–40 min until easily pierced and light golden 
+- Salmon cakes, bitter greens ____
+- Green pasta, bean dip, cut veg _____
+- Shakshuka ___
+- If time allows: banana muffins
 
-## Menu for week of Aug 31 
-- **Mon**: Fish, seasonal veg, barley // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice for peppers / anything else?, start plantains
-- **Tues**: Ikarian bean stew, plantains // cook plantains
-- **Wed**: Eggplant with lamb, tomato, pine nuts + sliced potatoes // cook potatoes, defrost chicken
-- **Thurs**: Stuffed peppers, seasonal veg // cook veg
-- **Fri**: Chicken with saucy onions, seasonal veg, rice // cook all
-- **Sat**: Baked tofu, seasonal veg, rice // cook all, meal plan
+## Menu for week of Sept 8
+- **Mon**: Pork chile verde, rice // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost **FISH** and cook rice 
+- **Tues**: Salmon cakes, bitter greens // :) 
+- **Wed**: Green pasta, veg with bean dip + muffins // bake muffins 
+- **Thurs**: Tofu stir fry w frozen veg, rice // cook all
+- **Fri**: N/A // :) 
+- **Sat**: N/A // :) 
 - **Sun**: leftovers or takeout // shop, shopping list
 
 ## All recipes and notes

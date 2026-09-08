@@ -24,4 +24,4 @@ Adapted from Love & Lemons and other sources
 4. Add tomatoes, harissa paste, and spinach. Simmer over low heat and stir often until sauce has thickened, about 15 minutes. 
 5. Use a large spoon to make 8 wells in the sauce. Crack 1 egg into each well. (If switching to oven, put skillet in oven.) 
 6. Cook 4–8 minutes or until eggs are set. Yolks should be light orange but not runny. 
-7. Top with feta, parsley, avocado, and micro greens. Serve with bread. 
+7. Serve in the skillet. Top with feta, parsley, avocado, and micro greens. Serve with bread. 

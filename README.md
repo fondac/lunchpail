@@ -1,6 +1,6 @@
 ## Recipes for Tuesday
 - Black lentil salad
-- Udon, greens, mushroom, pork
+- Udon, greens, mushroom — **** add pork
 - Bean stew with broccoli rabe
 - Scallops, green beans, farro
 - Green chard:

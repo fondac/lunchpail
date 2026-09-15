@@ -1,7 +1,7 @@
 # Udon with greens and mushroom
 
 ## Ingredients
-- 10 oz dried udon noodles
+- 2 packages of dried udon noodles 
 - 5 tablespoons avocado oil
 - 1 package boneless pork tenderloin or chop, cut into large bite-size strips (optional) // include this 
 - 1 pound fresh shiitake mushrooms, stems removed and stored separately

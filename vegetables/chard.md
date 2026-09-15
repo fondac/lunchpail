@@ -1,0 +1,3 @@
+- Cut into large bite-size pieces.
+- In stainless steel skillet, heat 2 tbsp avocado oil and add 3 cloves minced garlic.
+- Sauté chard until fully cooked and stem bites are tender. 

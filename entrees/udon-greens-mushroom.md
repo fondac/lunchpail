@@ -16,5 +16,5 @@
 2. In a large stainless steel skillet, heat 2 tablespoons oil over medium. Add pork and stir occasionally until cooked through. Set aside pork. 
 3. Heat 1–2 more tablespoons oil in skillet if needed. Add mushrooms. Cook, stirring occasionally, until mushrooms are soft. Set aside mushrooms.
 4. Add 1–2 tablespoons oil to skillet if needed. Sauté collard greens until wilted and soft, maybe 5 minutes depending on cookware.
-5. Add udon, pork, mushrooms, and 1/4 cup of the reserved cooking water. (If udon ratio is too high, don't add all the noodles.) Cook, tossing, until noodles are cooked through. Add more water if noodles appear dry.
+5. Add udon, pork, mushrooms, and 1/4 cup of the reserved cooking water. (If there are too many noodles to have a balanced ratio, don't add all the noodles.) Cook, tossing, until noodles are cooked through. Add more water if noodles appear dry.
 6. Remove skillet from heat. Toos noodles with vinegar, soy sauce, sesame oil, and sesame seeds. 

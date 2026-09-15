@@ -16,6 +16,6 @@
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)
 - [Planning](https://fondac.github.io/lunchpail/planning.html)
-- // References including [Instant Pot](https://fondac.github.io/lunchpail/instant-pot.html) and [Staples](https://fondac.github.io/lunchpail/staples.html)
+- // References including [Instant Pot](https://fondac.github.io/lunchpail/instant-pot.html), [Staples](https://fondac.github.io/lunchpail/staples.html), [Kitchen prep](https://fondac.github.io/lunchpail/kitchen-prep.html)
 
 

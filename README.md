@@ -1,15 +1,15 @@
 ## Recipes for Tuesday
-- [Lentil salad](https://fondac.github.io/lunchpail/entrees/lentil-salad.html)
-- [Udon, greens, mushroom](https://fondac.github.io/lunchpail/entrees/udon-greens-mushroom.html)
-- [Bean stew with broccoli rabe](https://fondac.github.io/lunchpail/entrees/bean-stew-broccoli-rabe.html)
-- Farro: cook bag according to instructions
+- [Tempeh tikka masala](https://fondac.github.io/lunchpail/entrees/tempeh-tikka-masala.html)
+- [Lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
+- [Shrimp curry](https://fondac.github.io/lunchpail/entrees/kaddu.html)
+- Micro greens: sauté 3 containers with a small amount of avocado oil  
 
-## Menu for week of Sept 15
+## Menu for week of Sept 21 
 - **Mon**: Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
-- **Tues**: Lentil salad, bread // :) 
-- **Wed**: Udon, greens, mushroom + pork // :) 
-- **Thurs**: Bean stew with broccoli rabe + rice // cook rice
-- **Fri**: Scallops, green beans, farro // cook scallops
+- **Tues**: Tempeh dish // ____ 
+- **Wed**: Red lentils, micro greens, rice // cook rice
+- **Thurs**: Shrimp curry with squash, kale, millet // cook millet
+- **Fri**: Fisherman stew, delicata squash with pumpkin seeds, bread OR beef tendon stew? // ____ 
 - **Sat**: Leftovers or takeout // ?? 
 - **Sun**: leftovers or takeout // shop, shopping list
 

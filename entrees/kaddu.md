@@ -4,7 +4,7 @@ Adapted from [NYTimes](https://cooking.nytimes.com/recipes/1025222-kaddu-with-gr
 ## Ingredients
 - 1 pound peeled, deveined shrimp
 - Salt
-- 1/4 cup ghee 
+- 1/4 cup ghee // Sept 22 sub in regular butter
 - 1 teaspoon cumin seeds 
 - 1 tablespoon grated ginger [use ginger root in freezer]
 - 1 tablespoon minced garlic 

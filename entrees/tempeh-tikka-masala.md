@@ -27,9 +27,13 @@ Roast veggies
 3. Spread evenly over the baking sheet. Roast for 40 minutes until the vegetables are soft. Stir vegetables halfway through.
 
 Make tikka masala 
-1. In a medium saucepan, heat 1 tablespoon of oil. (Can also do this in Instant Pot.) 
+1. In a large saucepan, heat 1 tablespoon of oil. 
 2. Toast the turmeric, paprika, coriander, and garam masala for 15 seconds. Add the garlic and ginger, then sauté until fragrant.
-3. Add the onion and pepper. Cook until the onion softens. Add 1/4 cup of water to deglaze the pan, and scrape away any stuck bits. // last step for Dianna
-4. Transfer to Instant Pot. Add the tempeh, coconut milk, tomatoes, and salt. Cook on low pressure for 12 minutes with a natural pressure release.
+3. Add the onion and pepper. Cook until the onion softens. Add 1/4 cup of water to deglaze the pan, and scrape away any stuck bits. 
+4. Add the tempeh, coconut milk, tomatoes, and salt. Simmer for 20–25 minutes until tempeh is no longer bitter.
 5. Add the roasted vegetables and stir until well combined.
 6. Serve over rice with cilantro.
+
+---
+
+Instant Pot: After step 3, transfer to Instant Pot. Add the tempeh, coconut milk, tomatoes, and salt. Cook on low pressure for 12 minutes with a natural pressure release. Add the roasted vegetables and stir until well combined.

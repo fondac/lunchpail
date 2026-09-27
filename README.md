@@ -1,15 +1,16 @@
 ## Recipes for Tuesday
-- [Tempeh tikka masala](https://fondac.github.io/lunchpail/entrees/tempeh-tikka-masala.html)
-- [Lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
-- [Shrimp curry](https://fondac.github.io/lunchpail/entrees/kaddu.html)
-- Micro greens: sauté 3 containers with a small amount of avocado oil  
+- [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
+- [Bean and chicken cassoulet](https://fondac.github.io/lunchpail/entrees/white-bean-chicken-cassoulet.html)
+- [Japanese curry](https://fondac.github.io/lunchpail/entrees/japanese-curry.html)
+- Chard: cut into large bite-size pieces. Sauté with avocado oil and garlic in stainless steel skillet until soft and tender. 
+- Delicata squash with pumpkin seeds: chop off ends, cut into quarters lengthwise, and cut into 1/2-inch crescent slices. Add avocado oil to stainless steel skillet. Sauté squash until soft and tender. Toss in pumpkin seeds and cook for another minute to warm seeds. 
 
-## Menu for week of Sept 21 
+## Menu for week of Sept 28 
 - **Mon**: Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
-- **Tues**: Tempeh dish // ____ 
-- **Wed**: Red lentils, micro greens, rice // cook rice
-- **Thurs**: Shrimp curry with squash, kale, millet // cook millet
-- **Fri**: Fisherman stew, delicata squash with pumpkin seeds, bread OR beef tendon stew? // ____ 
+- **Tues**: Enchilada casserole // :)  
+- **Wed**: Cassoulet, chard, rice // cook rice, maybe chard
+- **Thurs**: Japanese curry, squash, rice // cook rice, squash if needed
+- **Fri**: Beef tendon stew? // ____ 
 - **Sat**: Leftovers or takeout // ?? 
 - **Sun**: leftovers or takeout // shop, shopping list
 

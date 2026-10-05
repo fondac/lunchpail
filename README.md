@@ -5,11 +5,11 @@
 - Chard: cut into large bite-size pieces. Sauté with avocado oil and garlic in stainless steel skillet until soft and tender. 
 - Delicata squash with pumpkin seeds: chop off ends, cut into quarters lengthwise, and cut into 1/2-inch crescent slices. Add avocado oil to stainless steel skillet. Sauté squash until soft and tender. Toss in pumpkin seeds and cook for another minute to warm seeds. 
 
-## Menu for week of Sept 28 
+## Menu for week of Oct 5
 - **Mon**: Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
-- **Tues**: Enchilada casserole // :)  
-- **Wed**: Cassoulet, chard, rice // cook rice, maybe chard
-- **Thurs**: Japanese curry, squash, rice // cook rice, squash if needed
+- **Tues**: Salmon cakes // :) 
+- **Wed**: Shrimp stir fry, rice // cook rice 
+- **Thurs**: Chicken, seasonal veg, rice // cook rice, veg if needed 
 - **Fri**: Beef tendon stew? // ____ 
 - **Sat**: Leftovers or takeout // ?? 
 - **Sun**: leftovers or takeout // shop, shopping list

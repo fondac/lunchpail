@@ -1,12 +1,13 @@
 ## Recipes for Tuesday
-- [Enchilada casserole](https://fondac.github.io/lunchpail/entrees/enchilada-casserole.html)
-- [Bean and chicken cassoulet](https://fondac.github.io/lunchpail/entrees/white-bean-chicken-cassoulet.html)
-- [Japanese curry](https://fondac.github.io/lunchpail/entrees/japanese-curry.html)
-- Chard: cut into large bite-size pieces. Sauté with avocado oil and garlic in stainless steel skillet until soft and tender. 
-- Delicata squash with pumpkin seeds: chop off ends, cut into quarters lengthwise, and cut into 1/2-inch crescent slices. Add avocado oil to stainless steel skillet. Sauté squash until soft and tender. Toss in pumpkin seeds and cook for another minute to warm seeds. 
+- [Salmon cakes](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
+- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
+- [Saucy onion chicken](https://fondac.github.io/lunchpail/proteins/baked-chicken-saucy-onions.html)
+- Seasonal veg ______
+- _________Chard: cut into large bite-size pieces. Sauté with avocado oil and garlic in stainless steel skillet until soft and tender. 
+- _________Delicata squash with pumpkin seeds: chop off ends, cut into quarters lengthwise, and cut into 1/2-inch crescent slices. Add avocado oil to stainless steel skillet. Sauté squash until soft and tender. Toss in pumpkin seeds and cook for another minute to warm seeds. 
 
 ## Menu for week of Oct 5
-- **Mon**: Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
+- **Mon**: Beef tendon noodle stuff -- Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
 - **Tues**: Salmon cakes // :) 
 - **Wed**: Shrimp stir fry, rice // cook rice 
 - **Thurs**: Chicken, seasonal veg, rice // cook rice, veg if needed 

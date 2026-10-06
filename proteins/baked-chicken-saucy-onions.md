@@ -15,7 +15,7 @@ Adapted from [The Mediterranean Dish](https://www.themediterraneandish.com/baked
 - 1 teaspoon ground black pepper
 - 3 medium yellow onions, halved and thinly sliced
 - 1 vine ripe tomato, halved and sliced
-- 1 bag frozen okra 
+- 1 bag frozen okra or 1 package fresh okra, ends cut and sliced
 - 1/4 cup water
 
 ## Instructions

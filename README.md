@@ -2,9 +2,7 @@
 - [Salmon cakes](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
 - [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
 - [Saucy onion chicken](https://fondac.github.io/lunchpail/proteins/baked-chicken-saucy-onions.html)
-- Seasonal veg ______
-- _________Chard: cut into large bite-size pieces. Sauté with avocado oil and garlic in stainless steel skillet until soft and tender. 
-- _________Delicata squash with pumpkin seeds: chop off ends, cut into quarters lengthwise, and cut into 1/2-inch crescent slices. Add avocado oil to stainless steel skillet. Sauté squash until soft and tender. Toss in pumpkin seeds and cook for another minute to warm seeds. 
+- [Chard](https://fondac.github.io/lunchpail/vegetables/chard.html)
 
 ## Menu for week of Oct 5
 - **Mon**: Beef tendon noodle stuff -- Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 

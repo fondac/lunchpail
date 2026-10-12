@@ -1,11 +1,19 @@
 ## Recipes for Tuesday
-- [Salmon cakes](https://fondac.github.io/lunchpail/entrees/salmon-cakes.html)
-- [Shrimp and snow pea stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
-- [Saucy onion chicken](https://fondac.github.io/lunchpail/proteins/baked-chicken-saucy-onions.html)
+- Pasta: store in same container 
+    - [Meatballs](https://fondac.github.io/lunchpail/proteins/meatballs.html)
+    - [Sauce](https://fondac.github.io/lunchpail/sauces/pasta-sauce.html)
+    - Pasta: use box instructions for fully cooked, neither al dente nor mushy 
 - [Chard](https://fondac.github.io/lunchpail/vegetables/chard.html)
+- [Beluga stew](https://fondac.github.io/lunchpail/entrees/beluga-stew.html)
+- Falafel bowls, items stored separately
+    - 1.5-inch balls (smaller than before) of [falafel](https://fondac.github.io/lunchpail/entrees/falafel.html)
+    - Cut tomato and cucumber into very small cubes for topping
+    - [Pickled jalapeños](https://fondac.github.io/lunchpail/sauces/pickled-jalapenos.html)
+    - Couscous: cook 2 cups according to box instructions
+    - Mixed greens (super greens?): sauté container in 1–2 tablespoons avocado oil 
 
-## Menu for week of Oct 5
-- **Mon**: Beef tendon noodle stuff -- Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
+## Menu for week of Oct 12
+- **Mon**: Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
 - **Tues**: Salmon cakes // :) 
 - **Wed**: Shrimp stir fry, rice // cook rice 
 - **Thurs**: Chicken, seasonal veg, rice // cook rice, veg if needed 

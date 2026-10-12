@@ -14,10 +14,10 @@
 
 ## Menu for week of Oct 12
 - **Mon**: Fish, veg, bread // cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen // defrost ____ and cook rice 
-- **Tues**: Salmon cakes // :) 
-- **Wed**: Shrimp stir fry, rice // cook rice 
-- **Thurs**: Chicken, seasonal veg, rice // cook rice, veg if needed 
-- **Fri**: Beef tendon stew? // ____ 
+- **Tues**: Pasta, meatballs, sauce, chard // :) 
+- **Wed**: Falafel bowls // make yogurt sauce
+- **Thurs**: Beluga stew, rice // cook rice if needed 
+- **Fri**: ? // ____ 
 - **Sat**: Leftovers or takeout // ?? 
 - **Sun**: leftovers or takeout // shop, shopping list
 

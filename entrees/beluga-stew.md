@@ -35,5 +35,5 @@ Mushroom stew
 6. Add the miso paste, tahini, and soy sauce. Stir into the mushrooms to coat them.
 7. Remove bay leaf from lentil saucepan. Pour remaining lentils and liquid into Dutch oven. Add the coconut milk. If mixture is too dry, add more broth as needed. 
 8. (Skip) Use an immersion blender directly in the pot to partially blend the stew.
-9. Add in the sliced greens. Bring the stew to a boil until it is creamy and the greens are cooked. Remove from heat and stir in the balsamic vinegar. 
+9. Add in the sliced greens. Bring the stew to a boil until it is creamy and the greens are cooked and not bitter. Remove from heat and stir in the balsamic vinegar. 
 

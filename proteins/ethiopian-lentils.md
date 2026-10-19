@@ -2,7 +2,7 @@
 Adapted from [Daring Grourmet](https://www.daringgourmet.com/misir-wat-ethiopian-spiced-red-lentils/#recipe)
 
 ## Ingredients
-- 4 tablespoons clarified butter 
+- 4 tablespoons clarified butter // sub in regular unsalted butter if unavailable
 - 1 large yellow onion, very finely diced
 - 3 cloves garlic, finely minced
 - 1 Roma tomato, very finely chopped

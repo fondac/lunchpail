@@ -5,7 +5,7 @@ From [The Wholesome Dish](https://www.thewholesomedish.com/the-best-classic-shep
 Meat Filling
 - 2 tablespoons olive oil
 - 1 cup chopped yellow onion
-- 1 lb. 90% lean ground beef lamb
+- 1 lb. 90% lean ground beef or lamb
 - 2 teaspoons dried parsley leaves
 - 1 teaspoon dried rosemary leaves
 - 1 teaspoon dried thyme leaves

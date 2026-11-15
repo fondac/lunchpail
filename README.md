@@ -1,21 +1,21 @@
-## Recipes for Tuesday
-- [Kaddu](https://fondac.github.io/lunchpail/entrees/kaddu.html)
-- Barley: cook 1 cup according to bag instructions for soft barley
-- [Tempeh tikka masala](https://fondac.github.io/lunchpail/entrees/tempeh-tikka-masala.html)
-- [Shepherd's pie](https://fondac.github.io/lunchpail/entrees/shepherds-pie.html)
+## Recipes for Monday
+- [Green pasta with scallops](https://fondac.github.io/lunchpail/entrees/green-pasta-shellfish-tomatoes.html)
+- [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
+- ["Cassoulet"](https://fondac.github.io/lunchpail/entrees/white-bean-chicken-cassoulet.html)
+- [Eggplant casserole](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
 - As time permits:
-    - Zucchini: slice into thin half moons and sauté in olive oil until tender but not browned
-    - [Ethiopian lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html)
-    - Collards: remove and discard ribs, cut leaves in half lengthwise, then cut leaves into very thin 1/4-inch strips. Sauté with garlic in avocado oil for several minutes, just until bitterness is gone. 
+    - Farro: Cook 1.5 cups according to instructions on bag
+    - Plantains: Peel and cut into 1/2-inch slices. Immediately put into airtight container and refrigerate.
+    - 1 carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long. 
 
-## Menu for week of Nov 9
-- **Mon**: Short rib ragu, pasta, veg, crab cluster // cook all — see gdoc, 52 min Instant Pot
-- **Tues**: Red lentils, collards, rice // cook all - see [lentils](https://fondac.github.io/lunchpail/proteins/ethiopian-lentils.html), cut collards into strips and sauté a few min
-- **Wed**: Chicken soup, eggplant, rice // cook all — see "Dianna recipes for 2/25" gdoc, braise/steam eggplant
-- **Thurs**: Fisherman stew, squash, bread // cook all — see gdoc
-- **Fri**: Leftovers or takeout // cook if needed
-- **Sat**: Leftovers or takeout // shopping list
+## Menu for week of Nov 16
 - **Sun**: Fish, starch, veg // shop, cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen, defrost relevant items
+- **Mon**: Green pasta with scallops // :) 
+- **Tues**: Ikarian longevitiy stew, plantains // cook plantains if needed
+- **Wed**: Chicken "cassoulet", rice // cook rice if needed
+- **Thurs**: Eggplant with lamb, tomato, pine nuts + farro // cook farro if needed
+- **Fri**: Leftovers or takeout // cook if needed
+- **Sat**: Mom meal // shopping list
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

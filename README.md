@@ -10,7 +10,7 @@
 
 ## Menu for week of Nov 16
 - **Sun**: Fish, starch, veg // shop, cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen, defrost relevant items
-- **Mon**: Green pasta with scallops // :) 
+- **Mon**: Green pasta with scallops, snack of yogurt + pomegranate or passion fruit // :) 
 - **Tues**: Ikarian longevitiy stew, plantains // cook plantains if needed
 - **Wed**: Chicken "cassoulet", rice // cook rice if needed
 - **Thurs**: Eggplant with lamb, tomato, pine nuts + farro // cook farro if needed

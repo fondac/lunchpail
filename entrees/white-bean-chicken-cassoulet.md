@@ -23,6 +23,6 @@ Adapted from [barbos](https://www.reddit.com/r/DutchOvenCooking/comments/uosndz/
 2. Heat oil to Dutch oven and lightly sauté chicken on both sides. Do not brown. Chicken does not need to be cooked through. Remove and set aside.
 3. Sauté onions and carrots until onions are translucent. Add garlic and cook for 1 minute until fragrant and soft. Add tomato paste and mix in well. Cook another minute until paste darkens.
 4. Add the beans, thyme, bay leaves, and vinegar. Stir well.
-5. Add enough broth to cover everything. Bring to a simmer ~ 10 minutes and cook with the lid on ~ 30 minutes or until chicken is cooked through to 165 F at the thickest parts. Remove the thyme sprigs.
+5. Add enough broth to cover everything. Bring to a simmer ~ 10 minutes and cook with the lid on ~ 30 minutes or until chicken is cooked through to 165 F at the thickest parts. Remove the thyme sprigs. // Last step for prep. Leave next step for just before serving. 
 6. Mix the breadcrumbs, parsley, and oil. Sprinkle mixture evenly on top of casserole. Turn oven to broil setting and put Dutch oven in oven for 5–10 minutes or until breadcrumb mixture turns golden and crispy. 
 

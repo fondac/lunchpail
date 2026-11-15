@@ -8,7 +8,7 @@ Shellfish
 - 1 pint cherry tomatoes, halved
 - 1/2 cup broth
 - 1/4 teaspoon black pepper
-- 1.5 pounds shrimp, peeled and deveined (shells set aside) OR 1 pound scallops // Aug 4 use 1 bag scallops
+- 1.5 pounds shrimp, peeled and deveined (shells set aside) OR 1 pound scallops // Nov 16 use 1 bag scallops
 - 1/3 cup chopped parsley 
 - Juice of half a lemon
 - 1 T white wine vinegar

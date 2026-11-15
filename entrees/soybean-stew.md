@@ -13,7 +13,7 @@ Based off [Maangchi](https://www.maangchi.com/recipe/kongbiji-jjigae)
 - 2 teaspoons toasted sesame oil
 - 2 garlic cloves, minced 
 - 1/2 cup chopped onion
-- 1 tablespoon saeujeot (salted fermented shrimp)
+- 1 tablespoon saeujeot (salted fermented shrimp) // if unavailable, try substituting fish sauce
 - 2 green onions, chopped
 
 ## Instructions

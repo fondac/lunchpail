@@ -1,6 +1,6 @@
 ## Recipes for Monday
 - [Green pasta with scallops](https://fondac.github.io/lunchpail/entrees/green-pasta-shellfish-tomatoes.html)
-- [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
+- Double [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
 - ["Cassoulet"](https://fondac.github.io/lunchpail/entrees/white-bean-chicken-cassoulet.html)
 - [Eggplant casserole](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
 - As time permits:

@@ -29,5 +29,5 @@ Assembly
 3. Layer again with eggplant, meat, tomato sauce and pine nuts.
 4. Finish with a layer of eggplant and cover with more tomato sauce, sprinkling top with pine nuts.
 5. Pour 1 cup warm water around the perimeter of the baking dish. (Sauce will thicken as it bakes.)
-6. Cover pan with foil and bake for 90 minutes. Remove foil and top eggplant evenly with mozzarella. Bake for 15 minutes longer, uncovered, or until the cheese is bubbling and golden.
+6. Cover pan with foil and place on middle rack. Place baking sheet on the rack below to catch anything that bubbles over. Bake for 90 minutes. Remove foil and top eggplant evenly with mozzarella. Bake for 15 minutes longer, uncovered, or until the cheese is bubbling and golden.
 7. Serve eggplant warm over rice.

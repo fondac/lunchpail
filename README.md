@@ -1,29 +1,19 @@
 ## Recipes for Monday
-- [Green pasta with scallops](https://fondac.github.io/lunchpail/entrees/green-pasta-shellfish-tomatoes.html)
-- Double [Ikarian longevity stew](https://fondac.github.io/lunchpail/entrees/ikarian-longevity-stew.html)
-- ["Cassoulet"](https://fondac.github.io/lunchpail/entrees/white-bean-chicken-cassoulet.html)
-- [Eggplant casserole](https://fondac.github.io/lunchpail/entrees/eggplant-lamb-tomato-pine-nuts.html)
+- [Shrimp stir fry](https://fondac.github.io/lunchpail/entrees/shrimp-snow-pea-stir-fry.html)
+- [Quinoa bowls________](https://fondac.github.io/lunchpail/entrees/quinoa-bowls.html)
+- [Pea curry](https://fondac.github.io/lunchpail/entrees/japanese-curry.html)
+- Egg dish that Dianna texted about ______ or Love and Lemons quiche start dough? 
 - As time permits:
-    - Farro: Cook 1.5 cups according to instructions on bag
-    - Plantains: Peel and cut into 1/2-inch slices. Immediately put into airtight container and refrigerate.
+    - 1 carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long.
 
-## Menu for week of Nov 16
+## Menu for week of Nov 23
 - **Sun**: Fish, starch, veg // shop, cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen, defrost relevant items
-- **Mon**: Green pasta with scallops, snack of yogurt + pomegranate or passion fruit // :) 
-- **Tues**: Ikarian longevitiy stew, plantains // cook plantains if needed
-- **Wed**: Chicken "cassoulet", rice // cook rice if needed
-- **Thurs**: Eggplant with lamb, tomato, pine nuts + farro // cook farro if needed
+- **Mon**: Shrimp stir fry, snack of yogurt + passion fruit // cook rice
+- **Tues**: Quinoa bowls // ________
+- **Wed**: Pea curry, rice // cook rice if needed
+- **Thurs**: Thanksgiving // cook all
 - **Fri**: Leftovers or takeout // cook if needed
 - **Sat**: Mom meal // shopping list
-
-brainstorming 
-- salmon Sunday
-- shrimp stir fry
-- black bean, cauliflower, radish, tofu, edamame, quinoa bowls
-- pea curry 
-- As time permits: 
-    - 1 carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long.
-    - Egg dish that Dianna texted about ______ or Love and Lemons quiche start dough? 
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

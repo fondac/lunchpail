@@ -1,12 +1,12 @@
 # Thanksgiving
 
 ## Menu
-- Turkey
-- Gravy
-- Mashed potatoes
-- Green beans
+- Turkey // see below
+- Gravy // see "giblet gravy" gdoc. need drippings, 1/2 c flour, 1+ quarts broth
+- Mashed potatoes // see Love and Lemons. 3 lbs potatoes, garlic cloves/powder, 1 stick butter, 1/2–1 c whole milk 
+- Green beans 
 - Pumpkin pie (bars?) 
-- (next day) soup
+- (next day) soup // ??????? ____ barley, carrots, celery? 
 
 ## Turkey
 Adapt from Smitten Kitchen https://smittenkitchen.com/2019/11/dry-brined-turkey-with-roasted-onions/

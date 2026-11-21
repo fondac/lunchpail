@@ -6,7 +6,6 @@
 - As time permits:
     - Farro: Cook 1.5 cups according to instructions on bag
     - Plantains: Peel and cut into 1/2-inch slices. Immediately put into airtight container and refrigerate.
-    - 1 carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long. 
 
 ## Menu for week of Nov 16
 - **Sun**: Fish, starch, veg // shop, cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen, defrost relevant items
@@ -16,6 +15,15 @@
 - **Thurs**: Eggplant with lamb, tomato, pine nuts + farro // cook farro if needed
 - **Fri**: Leftovers or takeout // cook if needed
 - **Sat**: Mom meal // shopping list
+
+brainstorming 
+- black bean cauliflower tacos
+- tofu edamame quinoa bowls
+- shrimp stir fry
+- pea curry
+- As time permits: 
+    - 1 carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long.
+    - Egg dish that Dianna texted about ______
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

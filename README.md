@@ -17,13 +17,13 @@
 - **Sat**: Mom meal // shopping list
 
 brainstorming 
-- black bean cauliflower tacos
-- tofu edamame quinoa bowls
+- salmon Sunday
 - shrimp stir fry
-- pea curry
+- black bean, cauliflower, radish, tofu, edamame, quinoa bowls
+- pea curry 
 - As time permits: 
     - 1 carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long.
-    - Egg dish that Dianna texted about ______
+    - Egg dish that Dianna texted about ______ or Love and Lemons quiche start dough? 
 
 ## All recipes and notes
 - [All recipes](https://fondac.github.io/lunchpail/all.html)

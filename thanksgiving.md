@@ -13,7 +13,7 @@ Adapt from Smitten Kitchen https://smittenkitchen.com/2019/11/dry-brined-turkey-
 but skip the maple syrup and chile, and try roasting turkey upside down first for 25 min then turn over // save recipe  
 
 Ingredients
-- 10-pound turkey
+- 10-pound heirloom turkey
 - Kosher salt (new box)
 - Lots of unsalted butter, try 1 stick, melted 
 - 3 yellow onions, 3 red onions, peeled and quartered

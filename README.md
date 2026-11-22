@@ -4,7 +4,7 @@
 - [Pea curry](https://fondac.github.io/lunchpail/entrees/japanese-curry.html)
 - [Portuguese baked eggs](https://fondac.github.io/lunchpail/breakfast/portuguese-baked-eggs.html)
 - As time permits:
-    - 1 carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long.
+    - 1 large carrot: Cut off ends and peel. Cut into 4 pieces length-wise, then into matchsticks about a pinky finger long.
 
 ## Menu for week of Nov 23
 - **Sun**: Fish, starch, veg // shop, cook all, refrigerate meat/seafood, identify dishes to bake in Pyrex storage, prep kitchen, defrost relevant items

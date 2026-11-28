@@ -1,3 +1,5 @@
+See "nutrition planning" gdoc
+
 Protein
 - animal: eggs, poultry, seafood (like salmon sardines trout), and red meat
 - plant: beans, peas, lentils, legumes, nuts, seeds, and soy
